@@ -5,5 +5,10 @@
 ## 重要说明
 本仓库的指导和内容部分来自 Gemini Pro。
 
+## 打赏
+原创不易，有能力的支持一下ztxtech.
+![ali](./qr/alipay.jpg) ![wechat](./qr/wechat.png)
+
+
 ## 📄 许可证
 本项目采用 MIT 进行许可 - 有关详细信息，请参阅 [LICENSE](LICENSE) 文件。
