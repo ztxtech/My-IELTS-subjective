@@ -1,371 +1,348 @@
 # Internet
+
 ## 题目
+
 1. When did you start using the internet?
 2. How often do you go online?
 3. How does the internet influence people?
 4. Do you think you spend too much time online?
 5. What would you do without the internet?
 
-## 高级版本
-当然！“网络 (The Internet)” 这个话题在雅思考试中太常见了，几乎可以出现在任何一部分。我们今天就用这几个 Part 1 的问题来做个示范，这会是一个非常好的开始。
+给出一个小学生都能说的简单答案，不超过4句话。
 
-好的，请坐，放轻松。我们现在开始。
+## 答案
 
-(I will now play the role of the examiner and then immediately provide the model answer as the candidate, Alan.)
+好的，Tianxiang！非常棒，我们今天就来聊聊 "The Internet" 这个话题。这可是Part 1的高频话题，而且和你计算机的专业背景非常相关，我们正好可以利用这一点。
 
-***
+别担心，我会用最简单、最自然的语言来回答，让你看看一个好答案是什么样的。记住，我们的目标不是用复杂的词，而是把简单的话说得流利、有条理。
 
-### **Question 1: When did you start using the internet?**
-
-**Model Answer (Alan):**
-"Let me think... If I remember correctly, I first started using the internet when I was in primary school, maybe around 10 years old. Back then, it was still the era of dial-up, which means the connection was incredibly slow. I mainly used it for very simple things, like searching for information for my school projects or playing some basic online games. It really felt like a whole new world opening up to me."
-
----
-#### **答案分析 (Answer Analysis):**
-
-* **思路与结构:**
-    1.  **自然开场:** 用 "Let me think..." 和 "If I remember correctly, ..." 来模拟真实的回忆过程，非常自然，还能给自己争取几秒钟的思考时间。
-    2.  **明确时间:** 给出具体的时间点 "in primary school, around 10 years old"。
-    3.  **补充背景:** 描述了当时的情况 "the era of dial-up, incredibly slow"，这让回忆变得更生动，也展示了时态的对比。
-    4.  **具体用途:** 列举了当时的用途 "searching for information", "playing games"，让答案更具体。
-    5.  **结尾感受:** 用 "It felt like a whole new world" 来总结当时的感受，使答案更完整。
-
-* **亮点词汇/短语:**
-    * **If I remember correctly:** 非常地道的表达“如果我没记错的话”。
-    * **The era of dial-up:** “拨号上网的时代”，一个很形象的说法。
-    * **Incredibly slow:** “难以置信地慢”，用副词 `incredibly` 加强了语气。
-    * **A whole new world:** “一个全新的世界”，很生动的比喻。
-
-* **实用句型:**
-    * `...which means...`: 这是一个非常实用的非限制性定语从句，用来对前面的信息进行补充解释，能有效增加句子的复杂度。例: "It was the era of dial-up, **which means** the connection was incredibly slow."
-    * `I mainly used it for...`: 清晰地引出你使用某物的主要目的。
-
-* **连接词的使用:**
-    * 这个简短的回答中没有特别复杂的连接词，但通过时间顺序和 `which means` 的解释，整个答案的逻辑非常连贯。
+好，现在我是考官，你放松听。
 
 ***
 
-### **Question 2: How often do you go online?**
+### **示范 1：When did you start using the internet?**
 
-**Model Answer (Alan):**
-"Well, to be honest, I'm online pretty much constantly throughout the day. It has become an essential part of my daily routine. For instance, I check my messages first thing in the morning, I use it for research during my studies, and in the evening, I often stream a movie or listen to music to unwind. So yeah, I'm connected from morning till night."
+**(Alan扮演考官提问)**
+"Let's talk about the internet. When did you start using the internet?"
+
+**(Alan扮演考生回答)**
+"I think I first went online when I was in primary school, probably around 10 years old. My dad bought our first family computer, and I was super curious about everything on it. At first, I just used it to search for some cartoons and play simple online games."
 
 ---
-#### **答案分析 (Answer Analysis):**
 
-* **思路与结构:**
-    1.  **直接回答:** 用 "pretty much constantly" 直接回答了频率问题，非常口语化。
-    2.  **概括说明:** 用一句话总结 "It has become an essential part of my daily routine"。
-    3.  **举例支撑:** 使用 "For instance," 引出三个具体的例子（早上、学习中、晚上），清晰地展示了“如何”频繁上网，让答案非常饱满。
-    4.  **简短总结:** 最后用 "So yeah..." 进行一个随意的收尾，听起来很自然。
+#### **答案分析 (Answer Analysis)**
 
-* **亮点词汇/短语:**
-    * **Pretty much constantly:** “几乎一直”，非常地道的口语表达，比 `always` 更自然。
-    * **Essential part:** “必要组成部分”。
-    * **First thing in the morning:** “早上第一件事”。
-    * **Stream a movie:** “在线看电影”。
-    * **To unwind:** “放松”，这是我们“万能观点库”里提到的高频词汇。
+* **思路与结构 (Structure):**
+    1.  **直接回答:** "when I was in primary school..." (直接给出时间点)
+    2.  **背景补充:** "My dad bought our first family computer..." (解释了当时的情景)
+    3.  **举例说明:** "...search for some cartoons and play simple online games." (给出了具体的例子，让回答更生动)
 
-* **实用句型:**
-    * `It has become an essential part of my...`: 现在完成时用得非常准确，强调了网络到目前为止已经产生的影响。
-    * `I often [do sth] to [do sth]`: 描述做某事的目的，例如 "I listen to music **to unwind**."
+* **亮点词汇/短语 (Vocabulary):**
+    * `went online`: "上网"，一个非常地道的说法。
+    * `primary school`: "小学"，比 "elementary school" 在英式口语中更常见。
+    * `super curious`: "超级好奇"，用 "super" 来加强语气，非常口语化，比 "very" 更生动。
+    * `At first`: "一开始"，用来引出最初的用途，让描述更有层次。
 
-* **连接词的使用:**
-    * **Well, to be honest...:** 完美的开场白。
-    * **For instance...:** 清晰地引出例子，是让答案具体化的关键。
-    * **So yeah...:** 自然的总结信号。
+* **实用句型 (Sentence Patterns):**
+    * `I think I first... when...`: 这是一个非常好的回忆过去的开头句型，显得自然而不确定。
+    * `I just used it to...`: 一个说明工具用途的万能句型。
+
+* **连接词的使用 (Connectors):**
+    * 这个简短的回答里没有复杂的连接词，但通过时间顺序（`when I was...`, `At first...`）自然地将句子连接起来，非常流畅。
 
 ***
 
-### **Question 3: How does the internet influence people?**
+### **示范 2：How often do you go online?**
 
-**Model Answer (Alan):**
-"Wow, that's a big question. I'd say the internet has a huge influence in so many ways. On the positive side, it's made our lives incredibly convenient. For example, we can access almost any information we want in seconds. However, on the other hand, it can also be a major source of distraction. It’s so easy to get lost scrolling through social media. I guess you could say it’s a double-edged sword."
+**(Alan扮演考官提问)**
+"How often do you go online?"
+
+**(Alan扮演考生回答)**
+"Oh, I'm online pretty much all day, every day. As a computer science student, I have to use the internet for my studies and research constantly. Besides studying, I also use it to relax, like listening to pop music or chatting with my friends."
 
 ---
-#### **答案分析 (Answer Analysis):**
 
-* **思路与结构:**
-    1.  **给予反应:** 用 "Wow, that's a big question" 来应对一个比较宽泛的问题，显得真实。
-    2.  **提出总论点:** 先总说一句 "a huge influence in so many ways"。
-    3.  **正反两面论证:** 运用了 "On the positive side..." 和 "However, on the other hand..." 这个经典结构，清晰地展示了事情的利弊，体现了辩证思维，这是 Part 3 的核心技能。
-    4.  **观点总结:** 最后用一个地道的俚语 "it's a double-edged sword" 来进行总结，非常有力。
+#### **答案分析 (Answer Analysis)**
 
-* **亮点词汇/短语:**
-    * **Huge influence:** “巨大的影响”。
-    * **Incredibly convenient:** “极其方便”，再次使用了副词 `incredibly`，并且契合了“效率与便捷”的万能观点。
-    * **Source of distraction:** “分心的来源”。
-    * **Get lost scrolling:** “沉迷于刷（社交媒体）”，非常形象。
-    * **A double-edged sword:** “一把双刃剑”，点睛之笔。
+* **思路与结构 (Structure):**
+    1.  **直接回答:** "pretty much all day, every day." (非常直接地回答了频率)
+    2.  **解释原因 (学习):** "As a computer science student, I have to use it for my studies..." (结合你【计算机专业】的背景，给出了一个非常合理的理由)
+    3.  **补充信息 (放松):** "Besides studying, I also use it to relax..." (从另一个方面补充信息，让答案更完整)
+    4.  **举例:** "...listening to pop music or chatting with my friends." (结合你喜欢【听流行音乐】的爱好，让例子非常个人化)
 
-* **实用句型:**
-    * `On the positive side, ... However, on the other hand, ...`: 讨论优缺点的黄金句型，必须掌握。
-    * `I guess you could say...`: 一个委婉地提出自己总结性看法的方式。
+* **亮点词汇/短语 (Vocabulary):**
+    * `pretty much`: "差不多，几乎"，非常口语化的表达，代替 "almost"。
+    * `constantly`: "持续地，不断地"，一个简单但能体现频率的副词。
+    * `Besides studying`: "除了学习之外"，很好的引出另一个观点。
 
-* **连接词的使用:**
-    * **However:** 经典的转折词，使用准确。
-    * **For example:** 用来支撑优点，让论证不空洞。
+* **实用句型 (Sentence Patterns):**
+    * `As a..., I have to...`: “作为一名...，我必须...”，这是一个解释原因的绝佳句型，可以直接套用你的学生、专业等身份。
+    * `I also use it to..., like...`: 在补充信息时，用 "like" 来举例非常自然。
+
+* **连接词的使用 (Connectors):**
+    * `As a...`: 起到了很好的解释说明作用。
+    * `Besides`: 用于补充不同方面的信息，让内容过渡很顺滑。
+    * `Also`: 同样是补充信息，表明除了学习还有其他用途。
 
 ***
 
-### **Question 4: Do you think you spend too much time online?**
+### **示范 3：How does the internet influence people?**
 
-**Model Answer (Alan):**
-"Honestly speaking, yes, I probably do. It's very easy to lose track of time when you're just scrolling through social media feeds or watching short videos. Although I use the internet for productive things like studying, I have to admit that I sometimes fall into the trap of mindless Browse. I'm actually trying to be more mindful of it and cut down on my screen time a bit."
+**(Alan扮演考官提问)**
+"How does the internet influence people?"
+
+**(Alan扮演考生回答)**
+"Well, I think the internet has a huge influence on our lives, mostly in a good way. For example, it allows us to get any information we want instantly and stay connected with family. However, it can also be a big distraction if we don't manage our time wisely."
 
 ---
-#### **答案分析 (Answer Analysis):**
 
-* **思路与结构:**
-    1.  **诚实回答:** "Honestly speaking, yes, I probably do." 开门见山，非常诚实。
-    2.  **解释原因:** 解释为什么会花很多时间 "easy to lose track of time"。
-    3.  **展现复杂性 (让步):** 使用 "Although..." 句型，承认自己也会用网络做有益的事（studying），这让答案不那么绝对，更有层次。
-    4.  **表达自我认知/未来计划:** 最后说 "I'm trying to be more mindful..."，展示了自我反思和积极的态度，这是一个很好的加分点。
+#### **答案分析 (Answer Analysis)**
 
-* **亮点词汇/短语:**
-    * **Lose track of time:** “忘记了时间”。
-    * **Social media feeds:** “社交媒体信息流”。
-    * **Productive things:** “有成效的事情”。
-    * **Fall into the trap of...:** “掉进...的陷阱里”。
-    * **Mindless Browse:** “无脑地浏览”。
-    * **Be mindful of it:** “意识到/注意到这件事”。
-    * **Cut down on my screen time:** “减少我的屏幕使用时间”。
+* **思路与结构 (Structure):**
+    1.  **中心句:** "it has a huge influence... mostly in a good way." (先给出一个总体看法)
+    2.  **正面例子:** "For example, it allows us to get information... and stay connected..." (用例子支撑正面观点)
+    3.  **转折 (反面):** "However, it can also be a big distraction..." (给出一个反面观点，让答案更全面、辩证)
 
-* **实用句型:**
-    * `Although I..., I have to admit that...`: 经典的让步状语从句，先承认一点，再引出自己真正想强调的另一点。
-    * `I'm actually trying to...`: 使用现在进行时来表达目前正在努力做的事情。
+* **亮点词汇/短语 (Vocabulary):**
+    * `huge influence`: "巨大的影响"，简单直接。
+    * `instantly`: "立刻，马上"，描述网络的速度感。
+    * `stay connected with`: "与...保持联系"，常用短语。
+    * `a big distraction`: "一个很大的干扰"，非常地道的说法。
+    * `manage our time wisely`: "明智地管理我们的时间"。
 
-* **连接词的使用:**
-    * **Honestly speaking...:** 很好的开场。
-    * **Although...:** 完美地引出了让步和对比的逻辑，让答案更有深度。
+* **实用句型 (Sentence Patterns):**
+    * `Well, I think...`: 一个很好的口语开头，给自己一点思考时间。
+    * `For example, it allows us to...`: 用 "allow sb to do sth" 这个句型来描述好处，非常实用。
+    * `it can also be... if...`: 用 "if" 条件句来补充观点，说明在特定条件下会发生什么。
+
+* **连接词的使用 (Connectors):**
+    * `For example`: 用于举例，是口语中最常用的连接词之一。
+    * `and`: 连接两个并列的优点。
+    * `However`: 用于引出相反的观点，体现了回答的逻辑性。
 
 ***
 
-### **Question 5: What would you do without the internet?**
+### **示范 4：Do you think you spend too much time online?**
 
-**Model Answer (Alan):**
-"Wow, that’s a tricky question. It’s hard to imagine my life without it. But if I had to, I guess I would probably read a lot more physical books instead of Browse news online. Also, I think I would spend more quality time outdoors, maybe going hiking or just walking in the park. It would definitely be a huge change, but perhaps it would lead to a simpler and more connected way of life, you know, in the real world."
+**(Alan扮演考官提问)**
+"Do you think you spend too much time online?"
 
----
-#### **答案分析 (Answer Analysis):**
-
-* **思路与结构:**
-    1.  **应对提问:** "That's a tricky question. It's hard to imagine..." 这是回答假设性难题的经典开场。
-    2.  **使用虚拟语气:** 准确地使用了 "if I had to, I would..." 这样的虚拟语气句型，这是这个问题的核心考察点。
-    3.  **提出具体替代活动:** 提供了两个具体的替代活动（`read more physical books`, `spend more quality time outdoors`），让设想不空泛。
-    4.  **补充观点:** 使用 "Also," 添加了第二个想法，使内容更丰富。
-    5.  **反思与总结:** 最后对这种生活方式进行了一个小小的反思和总结，"a simpler and more connected way of life"，并用 "you know" 结尾，非常口语化。
-
-* **亮点词汇/短语:**
-    * **A tricky question:** “一个不好回答的问题”。
-    * **Physical books:** “纸质书”，与 "e-books" 相对。
-    * **Quality time:** “高质量的相处时间”。
-    * **A huge change:** “一个巨大的改变”。
-    * **A simpler and more connected way of life:** “一种更简单、连接更紧密的生活方式”。
-
-* **实用句型:**
-    * `If..., I would...`: 第二类条件句（虚拟语气），回答与现在事实相反的假设性问题的必备句型。
-    * `It would definitely be..., but perhaps it would lead to...`: 对虚拟结果进行推测和评论。
-
-* **连接词的使用:**
-    * **But:** 用于转折，从“难以想象”转到“开始设想”。
-    * **Also:** 用于并列地添加另一个观点。
-    * **You know:** 在句末使用，用于寻求听者认同或进行确认，让对话感更强。
-
-怎么样？通过这五个问题的示范，你是不是对如何回答“网络”这个话题更有感觉了？我们可以随时进入下一个话题的练习！
-
-
-## 简单版本
-好的，完全没问题！我们化繁为简。
-
-有时候分析太多确实会让人头晕。那我们换个方式，我还是给你示范答案，但之后只用一句话点出那个答案最核心、最值得你学习的**“亮点”**，让你能立刻抓住重点。
-
-这样是不是好多了？我们再来一次！
+**(Alan扮演考生回答)**
+"Honestly, I probably do, but I don't really think it's 'too much' for me. That’s because most of my online time is spent on productive things, like coding or doing research for my papers. So, I see it as a necessary tool for my major rather than just entertainment."
 
 ---
 
-### **1. Question: When did you start using the internet?**
+#### **答案分析 (Answer Analysis)**
 
-**Model Answer:**
-"Let me think... If I remember correctly, I first started using the internet when I was in primary school, maybe around 10 years old. Back then, it was still the era of dial-up, which means the connection was incredibly slow. I mainly used it for very simple things, like searching for information for my school projects."
+* **思路与结构 (Structure):**
+    1.  **承认+转折:** "Honestly, I probably do, but..." (先承认，然后立刻解释为什么这不算问题，很有说服力)
+    2.  **解释原因:** "That's because most of my online time is spent on productive things..." (解释为什么自己不觉得时间“过长”)
+    3.  **举例说明:** "...like coding or doing research for my papers." (结合你【计算机专业，发过论文】的背景，举例非常真实)
+    4.  **总结观点:** "So, I see it as a necessary tool..." (最后总结，把网络定义为“必要工具”而不是“娱乐”)
 
-**一句话亮点:**
-这个答案的好处在于，它用 **“dial-up (拨号上网)”** 和 **“incredibly slow (超级慢)”** 这些小细节，把过去的回忆画了出来，听起来特别真实。
+* **亮点词汇/短语 (Vocabulary):**
+    * `Honestly`: "说实话"，非常棒的开头，显得真诚。
+    * `productive things`: "有成效的事情"，很好的概括了学习和工作。
+    * `necessary tool`: "必要的工具"。
+    * `rather than`: "而不是"，用于对比。
 
----
+* **实用句型 (Sentence Patterns):**
+    * `I probably do, but...`: 这是一个非常高级的回答“是/否”问题的方式，避免了简单的 "Yes" 或 "No"。
+    * `That's because...`: 用来解释前一句话的原因。
+    * `I see it as... rather than...`: "我把它看作是...而不是..."，一个表达个人看法的句型，很显水平。
 
-### **2. Question: How often do you go online?**
+* **连接词的使用 (Connectors):**
+    * `but`: 经典的转折连词。
+    * `That's because`: 明确引出原因。
+    * `like`: 用于举例。
+    * `So`: 用于总结。整个答案的逻辑链条非常清晰。
 
-**Model Answer:**
-"Well, to be honest, I'm online pretty much constantly. It's an essential part of my daily routine. For instance, I check my messages in the morning, use it for research during my studies, and in the evening, I often stream a movie to unwind."
+***
 
-**一句话亮点:**
-这个答案没有简单地说“每天”，而是用 **“早上、白天、晚上”** 三个具体例子，清楚地展示了“到底有多频繁”，让答案很饱满。
+### **示范 5：What would you do without the internet?**
 
----
+**(Alan扮演考官提问)**
+"What would you do without the internet?"
 
-### **3. Question: How does the internet influence people?**
-
-**Model Answer:**
-"I'd say the internet has a huge influence. On the positive side, it's made our lives incredibly convenient. However, on the other hand, it can also be a major source of distraction. I guess you could say it’s a double-edged sword."
-
-**一句话亮点:**
-这个答案最亮眼的地方是它的平衡结构，用 **“On the positive side... However, on the other hand...”** 来谈论优缺点，向考官展示了你的全面思考能力。
-
----
-
-### **4. Question: Do you think you spend too much time online?**
-
-**Model Answer:**
-"Honestly speaking, yes, I probably do. It's very easy to lose track of time. Although I use the internet for productive things like studying, I have to admit that I sometimes fall into the trap of mindless Browse. I'm trying to cut down on my screen time a bit."
-
-**一句话亮点:**
-这个答案的亮点在于它的 **“诚实”** 和 **“自我反思”**。它先承认问题，然后还说了自己正在努力改进，这让回答听起来非常真诚、有深度。
+**(Alan扮演考生回答)**
+"Wow, that's a tough question. My life would be totally different, especially my studies. I guess I would spend a lot more time on my offline hobbies, for instance, I could do more baking or go out for photography more often. I’d also probably read more physical books."
 
 ---
 
-### **5. Question: What would you do without the internet?**
+#### **答案分析 (Answer Analysis)**
 
-**Model Answer:**
-"Wow, that’s a tricky question. If there were no internet, I guess I would probably read a lot more physical books. Also, I think I would spend more quality time outdoors. It would be a huge change, but maybe it would lead to a simpler life."
+* **思路与结构 (Structure):**
+    1.  **反应+感叹:** "Wow, that's a tough question." (对于一个假设性问题，先给出一个自然的反应，非常真实)
+    2.  **总体设想:** "My life would be totally different..." (先给出一个总体的设想)
+    3.  **具体活动:** "...spend a lot more time on my offline hobbies." (从爱好入手，开始具体化)
+    4.  **举例:** "...for instance, I could do more baking or go out for photography..." (结合你【烘焙，摄影】的爱好，让答案充满个人色彩)
+    5.  **补充:** "I'd also probably read more physical books." (再补充一个可能的活动)
 
-**一句话亮点:**
-这个答案的核心就是准确使用了**虚拟语气：“If there were..., I would...”**。当被问到这种假设性问题时，用对这个句型就直接证明了你的语法水平。
+* **亮点词汇/短语 (Vocabulary):**
+    * `a tough question`: "一个很难回答的问题"，表明你在思考。
+    * `totally different`: "完全不同"。
+    * `offline hobbies`: "线下爱好"，一个非常现代和贴切的词。
+    * `physical books`: "纸质书"，相对于电子书而言。
 
----
+* **实用句型 (Sentence Patterns):**
+    * `I guess I would...`: "我想我会..."，用于回答假设性问题，非常核心的句型。
+    * `I could do... or...`: 用 "could" 来表达可能性。
+    * `I'd also probably...`: `I'd` 是 `I would` 的缩写，非常口语化，`probably` 增加了语气的不确定性，很适合假设场景。
 
-怎么样？这样是不是清晰多了？每个答案只记一个核心技巧，更容易模仿和练习！
+* **连接词的使用 (Connectors):**
+    * `for instance`: 和 `for example` 一样，用于举例。
+    * `or`: 连接两个并列的可能性。
+    * `also`: 用于补充另一个观点。
 
-接下来你想让我为你示范哪个话题呢？我们可以继续用这种“极简”模式！
+***
+
+好了，Tianxiang！以上就是这5个问题的示范答案和分析。你感觉怎么样？是不是发现用简单的词汇和句型，只要结构清晰、有逻辑，听起来效果就非常棒？
+
+接下来，你想继续练习这个话题，还是想让我为你示范一个新的话题呢？比如你的家乡 (Hometown) 或者你的爱好 (Hobbies)？
 
 ## 话题词汇
-当然！这是一个非常聪明的学习方法。当你围绕一个话题掌握了一些核心词汇后，你的表达就会立刻变得更精准、更地道。
 
-下面我就为你整理了一些关于 **“网络 (The Internet)”** 这个话题的高频词汇和短语。我把它们分成了几类，这样更容易记忆。
+当然！这是一个非常好的学习方法。当我们围绕一个话题积累了一些核心词汇和短语后，在开口回答时就会感觉有“弹药”了，会自信很多。
 
----
-
-### **雅思口语话题词汇库 (Topical Words) - The Internet**
-
-#### **1. 核心活动 (Core Activities)**
-
-* **Surf the internet / Browse the web** - 浏览网络/网页
-    * 这是最基础的说法，表示漫无目的地看看。
-* **Scroll through my feed** - 刷我（社交媒体）的主页
-    * 非常形象的说法，特指在社交媒体上上下滑动浏览内容。*e.g., "I can easily spend an hour just scrolling through my Instagram feed."*
-* **Stream movies/music** - 在线观看电影/听音乐
-    * 指在线播放，而不是下载下来。
-* **Do online shopping / E-commerce** - 网购 / 电子商务
-    * 现代生活必不可少的一部分。
-* **Access information** - 获取信息
-    * 比 `find information` 听起来稍微正式一点。*e.g., "The internet allows us to access a wealth of information."*
-* **Video conferencing** - 视频会议
-    * 在学习和工作中非常常用。
-
-#### **2. 正面影响 (Positive Sides)**
-
-* **Convenient and efficient** - 方便和高效
-    * 这是我们“万能观点库”里的核心词，一定要会用。
-* **A wealth of information** - 海量的信息
-    * 这是一个非常棒的短语，意思是 "a lot of information"。*e.g., "The library provides a wealth of information for students."*
-* **Stay connected with...** - 和...保持联系
-    * 用来描述社交功能的核心短语。*e.g., "I use social media to stay connected with my friends who live abroad."*
-* **Break down geographical barriers** - 打破地理障碍
-    * 一个更高级的说法，指网络让距离变得不再是问题。
-* **At your fingertips** - 触手可及
-    * 形容信息获取非常容易。*e.g., "With a smartphone, you have the world's knowledge at your fingertips."*
-
-#### **3. 负面影响 (Negative Sides)**
-
-* **A source of distraction** - 分心的来源
-    * 非常准确的说法。*e.g., "My phone is my biggest source of distraction when I'm trying to study."*
-* **Information overload** - 信息过载
-    * 指信息太多，反而让人感到焦虑和不知所措。
-* **Misinformation / Fake news** - 虚假信息 / 假新闻
-    * 当今网络世界的一大问题。
-* **Cyberbullying** - 网络霸凌
-    * 一个很重要的社会话题词汇。
-* **Get addicted to...** - 对...上瘾
-    * *e.g., "It's easy to get addicted to playing online games."*
-* **Go down a rabbit hole** - (因感兴趣) 不知不觉地陷进去
-    * 一个非常地道的俚语，形容你本来想查一个东西，结果被相关链接吸引，一个接一个点下去，浪费了很多时间。*e.g., "I just wanted to know the name of the actor, but I went down a rabbit hole on Wikipedia and two hours passed!"*
+下面我为你整理了一些关于 "The Internet" 话题的实用词汇和短语。我特意挑选了那些简单、地道且在口语中一用就能加分的词，并且分好了类别，方便你记忆。
 
 ---
 
-怎么样？这些词汇和短语就是你谈论“网络”话题时的“弹药”。试着用它们来组织一下我们刚才回答过的问题，感觉会立刻不一样。
+### **"The Internet" 话题词汇库 (Topical Words)**
 
-接下来，你想继续围绕这个话题练习，还是想让我为你示范一个全新的话题呢？
+#### **1. 核心动作 (Key Actions / Verbs)**
+
+* **surf the internet** - 上网 (比 `use the internet` 更生动)
+    * *Example:* "I usually **surf the internet** for an hour before going to bed."
+* **browse websites** - 浏览网站
+    * *Example:* "I like to **browse** different photography **websites** for inspiration."
+* **scroll through** social media - 刷社交媒体 (这个 "scroll" 非常形象)
+    * *Example:* "It's easy to waste a lot of time just **scrolling through** my social media feed."
+* **stream videos/music** - 在线观看视频/听音乐
+    * *Example:* "I prefer to **stream music** online rather than downloading it."
+* **stay connected with**... - 与...保持联系
+    * *Example:* "The internet helps me **stay connected with** my friends and family back home."
+* **search for** information - 搜索信息
+    * *Example:* "As a student, I constantly need to **search for** information for my research."
+
+#### **2. 核心事物 (Key Things / Nouns)**
+
+* **social media** - 社交媒体
+    * *Example:* "**Social media** has changed the way we communicate."
+* **app (application)** - 手机应用 / 应用程序
+    * *Example:* "I have a lot of useful **apps** on my phone for photo editing."
+* **Wi-Fi connection** - 无线网络连接
+    * *Example:* "The **Wi-Fi connection** in my dorm is pretty fast and stable."
+* **screen time** - 屏幕使用时间
+    * *Example:* "I'm trying to reduce my **screen time**, especially in the evening."
+* **digital content** - 数字内容 (指视频、文章、音乐等)
+    * *Example:* "We consume a huge amount of **digital content** every day."
+* **information overload** - 信息过载
+    * *Example:* "Sometimes, the internet can cause **information overload**, and it's hard to know what's true."
+
+#### **3. 核心描述 (Key Descriptions / Adjectives)**
+
+* **convenient** - 方便的
+    * *Example:* "Online shopping is super **convenient**; I can buy anything from home."
+* **essential / vital** - 必不可少的 / 至关重要的
+    * *Example:* "For my major, the internet is an **essential** tool for learning."
+* **informative** - 信息量大的
+    * *Example:* "I found a very **informative** documentary on YouTube about AI."
+* **addictive** - 让人上瘾的
+    * *Example:* "Some video games can be very **addictive** if you're not careful."
+* **distracting** - 让人分心的
+    * *Example:* "I have to turn off my phone when I study because notifications are so **distracting**."
+
+#### **4. 超实用短语 (Super Useful Phrases)**
+
+* **at my fingertips** - 触手可及
+    * *Example:* "With a smartphone, I have all the world's information **at my fingertips**."
+* **a double-edged sword** - 一把双刃剑 (形容事物有好有坏)
+    * *Example:* "Social media is **a double-edged sword**; it connects people but can also harm mental health."
+* **kill time** - 消磨时间
+    * *Example:* "When I'm waiting for the bus, I usually play a simple game on my phone to **kill time**."
+* **fall down a rabbit hole** - (无意中) 沉迷于...，越陷越深
+    * *Example:* "I just wanted to look up one thing, but I **fell down a rabbit hole** of watching funny cat videos for an hour." (这个短语非常地道，能让考官眼前一亮！)
+
+---
+
+怎么样，Tianxiang？这些词汇和短语是不是很实用？
+
+我的建议是，你不需要一次性全部记住。可以先挑出三五个你最喜欢的，试着在下次我们练习的时候用上它们。用的多了，自然就变成你自己的了！
 
 ## 常见搭配
 
-当然！你这个问题提得非常好，这正是我要强调的学习重点！
+没问题，Tianxiang！这个提问说明你已经进入了学习口语的第二阶段了：从“知道该用什么词”到“知道该怎么说一句话”。这非常棒！
 
-从“单词”到“句子搭配 (Collocations)”或“句块 (Chunks)”，是提升口语流利度的关键一步。死记硬背单词很难让你说得流利，但如果你记住了一些常用的“半成品句子”，你就可以更快地组织语言，听起来也更自然。
+“句子搭配”其实就是我们口语中的“套路”或者说“公式”。掌握了它们，你就可以像搭积木一样，把上一轮我们学到的词汇放进去，快速、准确地造出漂亮的句子。
 
-下面，我把刚才那些核心词汇，放进了一些在雅思口语中**极其常用**的句子搭配里。你可以把它们当成“填空题”来记，考试时直接拿来用！
-
----
-
-### **雅思口语常见句子搭配 - The Internet**
-
-#### **1. 描述上网活动 (Describing Online Activities)**
-
-* **I spend a lot of time...** + (doing sth.)
-    * **...surfing the internet.** (我花很多时间上网。)
-    * **...scrolling through my social media feeds.** (我花很多时间刷社交媒体。)
-
-* **I usually go online to...** + (do sth.)
-    * **...keep in touch with my friends.** (我通常上网是为了和朋友保持联系。)
-    * **...do research for my assignments.** (我通常上网为我的作业做研究。)
-
-* **Whenever I feel bored, I tend to...**
-    * **...stream some interesting videos.** (每当我感到无聊时，我倾向于在线看些有趣的视频。)
-    * **...play online games with my friends.** (……和朋友玩网络游戏。)
-
-#### **2. 谈论正面影响 (Talking about Positive Impacts)**
-
-* **The best thing about the internet is that...**
-    * **...it provides us with a wealth of information.** (网络最棒的一点是它为我们提供了海量信息。)
-    * **...it allows us to stay connected easily.** (……它让我们能轻松地保持联系。)
-
-* **Thanks to the internet,...**
-    * **...our lives have become much more convenient.** (多亏了网络，我们的生活变得方便多了。)
-    * **...we can work or study from anywhere.** (……我们可以从任何地方工作或学习。)
-
-* **The internet plays a crucial role in...**
-    * **...modern education.** (网络在现代教育中扮演着至关重要的角色。)
-    * **...global business.** (……在全球商业中扮演着至关重要的角色。)
-
-#### **3. 谈论负面影响 (Talking about Negative Impacts)**
-
-* **One of the biggest downsides of the internet is...**
-    * **...the spread of misinformation.** (网络最大的缺点之一是虚假信息的传播。)
-    * **...the risk of cyberbullying.** (……网络霸凌的风险。)
-
-* **It's very easy to...**
-    * **...get distracted by notifications.** (很容易被各种通知分心。)
-    * **...lose track of time when you're online.** (当你在网上时，很容易忘记时间。)
-
-* **I think people are becoming too dependent on...**
-    * **...social media for validation.** (我认为人们变得过于依赖社交媒体来寻求认可。)
-    * **...the internet for daily tasks.** (……过于依赖网络来完成日常任务。)
-
-#### **4. 表达个人感受 (Expressing Personal Feelings)**
-
-* **For me, the internet is an essential tool for...**
-    * **...learning new things.** (对我来说，网络是学习新东西的必备工具。)
-    * **...entertainment and relaxation.** (……是娱乐和放松的必备工具。)
-
-* **To be honest, I can't imagine my life without...**
-    * **...instant messaging apps.** (老实说，我无法想象没有即时通讯应用的生活。)
-    * **...online maps.** (……无法想象没有在线地图的生活。)
-
-* **I'm trying to be more mindful of...**
-    * **...how much time I spend online.** (我正努力去注意我花了多少时间在网上。)
-    * **...the content I consume online.** (……我正努力去注意我在网上消费的内容。)
+我为你准备了一些在谈论“The Internet”时最高频、最实用的句子搭配。
 
 ---
 
-你瞧，把这些“半成品”的句子记下来，比只记单词要有效得多。你可以试着用它们来重新回答我们之前的问题，看看是不是感觉流畅多了？
+### **"The Internet" 话题高频句子搭配 (Common Sentence Patterns)**
 
-接下来我们做什么？要不要用这些搭配来一场模拟对话，或者你想换个新话题？
+#### **1. 用来谈论“使用习惯”**
+* **I spend about** `[一段时间]` **a day** `[做什么事]`**.**
+    > *例：* **I spend about** three hours **a day** *Browse websites* for my research.
+    > (我每天花大约三个小时浏览网站来做我的研究。)
+
+* **Whenever I have some free time, I tend to** `[做什么事]`**.**
+    > *例：* **Whenever I have some free time, I tend to** *scroll through* my social media feed.
+    > (每当我有空闲时间，我通常会刷刷我的社交媒体。)
+
+* **The first thing I do when I get online is** `[做什么事]`**.**
+    > *例：* **The first thing I do when I get online is** *check my emails* from my professor.
+    > (我上网做的第一件事就是查看我导师的邮件。)
+
+#### **2. 用来谈论“用途和目的”**
+* **I mainly use the internet for** `[名词/动名词]`**.**
+    > *例：* As a student, **I mainly use the internet for** *studying and entertainment*.
+    > (作为学生，我主要用网络来学习和娱乐。)
+
+* **The internet is really useful for** `[做什么事]`**.**
+    > *例：* **The internet is really useful for** *finding new baking recipes* from all over the world.
+    > (网络对于寻找世界各地的烘焙新配方真的非常有用。) (这个例子结合了你的爱好哦！)
+
+* **I rely on the internet to** `[做什么事]`**.** ("rely on" 表示“依赖”，比 "use" 情感更强)
+    > *例：* **I rely on the internet to** *stay connected with* my friends who are studying abroad.
+    > (我依赖网络来和我那些在国外留学的朋友保持联系。)
+
+#### **3. 用来谈论“好处和优点”**
+* **The best thing about the internet is that** `[它能带来什么好处]`**.**
+    > *例：* **The best thing about the internet is that** *we can get information instantly*.
+    > (网络最棒的一点就是我们可以即时获取信息。)
+
+* **It makes it much easier to** `[做什么事]`**.**
+    > *例：* **It makes it much easier to** *share my photography works* with a wider audience.
+    > (它让与更广大的观众分享我的摄影作品变得容易多了。)
+
+#### **4. 用来谈论“坏处和缺点”**
+* **One of the main drawbacks is that** `[它有什么坏处]`**.** ("drawback" 是“缺点”的地道说法)
+    > *例：* **One of the main drawbacks is that** *it can be very distracting* when you need to focus.
+    > (它主要的一个缺点就是当你在需要专注的时候，它会非常分散你的注意力。)
+
+* **It's easy to waste a lot of time** `[做什么事]`**.**
+    > *例：* **It's easy to waste a lot of time** just *watching short videos*.
+    > (一不小心就会在看短视频上浪费大量时间。)
+
+#### **5. 用来谈论“假设情况”**
+* **It's hard to imagine my life without** `[名词]`**.**
+    > *例：* **It's hard to imagine my life without** *the internet*.
+    > (很难想象没有网络我的生活会是怎样。)
+
+* **If there were no internet, I would probably** `[做什么事]`**.**
+    > *例：* **If there were no internet, I would probably** *spend more time on my offline hobbies, like baking*.
+    > (如果没有网络，我可能会花更多时间在我的线下爱好上，比如烘焙。)
+
+---
+
+**Alan的建议：**
+
+你看，这些句型就像是“万能公式”。你只需要把我们之前学的那些词汇（比如 `convenient`, `addictive`, `social media`, `stream music` 等）填到这些空格里，一个高质量的答案就诞生了！
+
+试着随便挑一个句型，再填上一个词汇，自己说一说。比如：
+
+* "**The best thing about the internet is that** it's so **convenient**."
+
+是不是很简单？多练习几次，你就能脱口而出了！
