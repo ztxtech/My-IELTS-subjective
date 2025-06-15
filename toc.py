@@ -2,6 +2,7 @@
 import os
 import argparse
 
+EXCLUSIVE_NAMES = ['template.md','readme.md', 'project_toc.md']
 
 def generate_tree_toc(input_dir, output_path):
     """
@@ -20,7 +21,7 @@ def generate_tree_toc(input_dir, output_path):
     all_md_paths = []
     for root, dirs, files in os.walk(input_dir):
         for file in files:
-            if file.endswith(".md"):
+            if file.endswith(".md") and file not in EXCLUSIVE_NAMES:
                 full_path = os.path.join(root, file)
                 # 计算相对路径
                 relative_path = os.path.relpath(full_path, input_dir)

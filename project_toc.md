@@ -1,8 +1,5 @@
 # Table of Contents
-* [project_toc.md](project_toc.md)
-* [readme.md](readme.md)
 * 作文/
-  * [template.md](作文/template.md)
   * 大作文/
     * 利弊分析/
       * [c19t4-经济类.md](作文/大作文/利弊分析/c19t4-经济类.md)
