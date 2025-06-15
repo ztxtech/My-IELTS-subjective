@@ -9,6 +9,13 @@
 原创不易，有能力的支持一下ztxtech.
 ![打赏](./pay.png)
 
+## 指令
+
+1. 合并口语part1的资料。
+```shell
+    python merge.py --in ./口语/part1/topics --out ./口语/part1/2025年雅思5月-8月part1题库和答案ztxtech版本.md
+```
+
 
 ## 📄 许可证
 本项目采用 MIT 进行许可 - 有关详细信息，请参阅 [LICENSE](LICENSE) 文件。
