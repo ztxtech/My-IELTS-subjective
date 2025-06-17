@@ -1,5 +1,9 @@
 <div align="center">
-  <h1>📚 雅思主观题仓库</h1>
+  <h1>
+  <a href='https://github.com/ztxtech/My-IELTS-subjective'>
+  📚 雅思主观题仓库
+  </a>
+  </h1>
 </div>
 
 **Repo Status:**
@@ -20,22 +24,29 @@
 ## [目录](./project_toc.md)
 
 ## 指令
+
 - 合并类
-    1. 合并口语part1的资料。
-    ```shell
-        python merge.py --in ./口语/part1/topics --out ./口语/part1/2025年雅思5月-8月part1题库和答案ztxtech版本.md
-    ```
+  1. 合并口语 part1 的资料。
+  ```shell
+      python merge.py --in ./口语/part1/topics --out ./口语/part1/2025年雅思5月-8月part1题库和答案ztxtech版本.md
+  ```
 - 目录生成
-    ```shell
-        python toc.py --in ./ --out ./project_toc.md
-    ```
+  ```shell
+      python toc.py --in ./ --out ./project_toc.md
+  ```
 
 ## 重要说明
+
 本仓库的指导和内容部分来自 Gemini Pro。
 
 ## 📄 许可证
+
 本项目采用 MIT 进行许可 - 有关详细信息，请参阅 [LICENSE](LICENSE) 文件。
 
 ## 打赏
-原创不易，有能力的支持一下ztxtech.
-![打赏](./pay.png)
+
+原创不易，有能力的支持一下 [`ztxtech`](https://github.com/ztxtech).
+
+<center>
+    <img src="./pay.png" width="80%" alter='打赏'>
+</center>
