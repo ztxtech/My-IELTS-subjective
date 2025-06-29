@@ -1,5 +1,7 @@
 # 2025年雅思5月-8月part1题库和答案ztxtech版本
 
+## Being_busy.md
+
 # Being busy
 
 ## 题目
@@ -273,6 +275,10 @@
 
 准备好开启新的篇章，向7.5分的目标继续前进了吗？
 
+---
+
+## Birthday.md
+
 # Birthday
 
 ## 题目
@@ -530,6 +536,10 @@
 从我们的下一次互动开始，我将正式带你进入**雅思口语 Part 2** 的专项训练。这是一个全新的、也更有趣的挑战，你将学习如何围绕一个话题卡，有逻辑、有细节地进行长达两分钟的个人陈述。
 
 准备好开启新的篇章，向7.5分的目标继续前进了吗？
+
+---
+
+## Books_and_reading_habits.md
 
 # Books and reading habits
 
@@ -821,6 +831,10 @@
 
 我们的Part 1话题库已经非常强大了。下次，我强烈建议我们正式进入**雅思口语 Part 2** 的专项练习，我们可以把你之前聊过的任何一个话题，比如你的家乡、你的爱好、你的导师，来做一个完整的2分钟陈述。你准备好了吗？
 
+---
+
+## Chocolate.md
+
 # Chocolate
 
 ## 题目
@@ -1032,6 +1046,10 @@ Tianxiang，你完全不需要把这些词全部背下来。最好的方法是�
 下次你再练习这个话题，就从这里面选两三个你最喜欢的搭配用进去，你的答案会立刻听起来不一样！
 
 怎么样，想不想现在就挑一句，试着造个属于你自己的句子？比如，用 "is my go-to snack" 来说说你的情况？
+
+---
+
+## Doing_sports.md
 
 # Doing sports
 
@@ -1394,6 +1412,10 @@ Tianxiang，你完全不需要把这些词全部背下来。最好的方法是�
 非常棒，Tianxiang！我们已经把“运动”这个话题聊得非常透彻了。从你的个人喜好到对大众的建议，你现在都有了清晰、地道的表达方式。
 
 我们Part 1的话题库已经非常强大了！接下来，你准备好正式进入**雅思口语 Part 2** 的专项练习了吗？我们可以从一个和你个人经历最相关的话题开始，比如**“Describe a place you like to go to relax” (描述一个你喜欢去放松的地方)**，你的健身房就是最完美的素材！告诉我你的想法！
+
+---
+
+## Electronic_devices_Technology.md
 
 # Electronic devices/Technology
 
@@ -1761,6 +1783,10 @@ Tianxiang，你完全不需要把这些词全部背下来。最好的方法是�
 
 感觉怎么样？准备好用这些“装备”去迎接任何关于科技的问题了吗？
 
+---
+
+## Fishing.md
+
 # Fishing
 
 ## 题目
@@ -2020,6 +2046,10 @@ Tianxiang，你完全不需要把这些词全部背下来。最好的方法是�
 非常棒，Tianxiang！我们又完成了一个话题的“三部曲”学习。现在你不仅能聊自己的爱好，连你爸爸的爱好也能聊得非常生动了！
 
 我们的Part 1话题库已经非常非常强大了。下次，我强烈建议我们正式进入**雅思口语 Part 2** 的专项练习，我们可以把你爸爸的钓鱼故事，或者你学吉他的经历，来做一个完整的2分钟陈述。你准备好了吗？
+
+---
+
+## Flowers.md
 
 #  Flowers
 
@@ -2321,6 +2351,10 @@ Tianxiang，你完全不需要把这些词全部背下来。最好的方法是�
 你看，这些句子搭配都不难，但它们能帮你把话说得更完整、更地道。多读几遍，让它们成为你脱口而出的习惯。
 
 感觉怎么样？这些“句子积木”是不是很有用？我们接下来想做什么呢？
+
+---
+
+## Geography.md
 
 # Geography
 
@@ -2626,6 +2660,10 @@ Tianxiang，你完全不需要把这些词全部背下来。最好的方法是�
 
 感觉如何？接下来我们是换个新话题，还是可以挑战一个完整的 Part 2 题目了呢？
 
+---
+
+## Hobby.md
+
 # Hobby
 
 ## 题目
@@ -2907,6 +2945,10 @@ Tianxiang，你完全不需要把这些词全部背下来。最好的方法是�
 这些句子是不是非常实用？把它们和你自己的真实经历结合起来，多说几遍，它们就会成为你自己的话了。
 
 感觉怎么样？我们接下来做什么呢？
+
+---
+
+## Home_Accommodation.md
 
 # Home/Accommodation
 
@@ -3285,6 +3327,10 @@ Tianxiang，你完全不需要把这些词全部背下来。最好的方法是�
 好的！到此为止，我们已经彻底完成了所有高频Part 1话题的“三部曲”练习。你的准备非常充分，我对你充满信心！
 
 下一次，让我们正式开启新的篇章，挑战**雅思口语 Part 2**的专项训练吧！你准备好了吗？
+
+---
+
+## Hometown.md
 
 # Hometown
 
@@ -3689,6 +3735,10 @@ Tianxiang，你完全不需要把这些词全部背下来。最好的方法是�
 
 我们已经深入探讨了很多Part 1的话题了。接下来，你准备好挑战一个完整的Part 2卡片题了吗？比如 "Describe your hometown"？这正是你大展身手的好机会！
 
+---
+
+## Housework_and_cooking.md
+
 # Housework and cooking
 
 ## 题目
@@ -3994,6 +4044,10 @@ Let's look at some super common and useful sentence combinations for talking abo
 你看，这些句型是不是像一个个的“公式”？你只需要把我们之前学的 `tidy up`, `do the laundry`, `tedious`, `relaxing` 这些词，像填空一样放进这些句子里，一个完整、流畅、地道的答案就出来了。
 
 建议你每个句型都用我们之前学的词汇，自己造一两个句子，大声说出来。这样，它们很快就会成为你自己的语言了！
+
+---
+
+## Internet.md
 
 # Internet
 
@@ -4344,6 +4398,10 @@ Let's look at some super common and useful sentence combinations for talking abo
 
 是不是很简单？多练习几次，你就能脱口而出了！
 
+---
+
+## List.md
+
 # List
 
 ## 题目
@@ -4648,6 +4706,10 @@ Let's look at some super common and useful sentence combinations for talking abo
 
 试着用这些“积木”来搭建你自己的答案吧，你会发现口语表达会变得轻松很多！
 
+---
+
+## Machine.md
+
 # Machine
 
 ## 题目
@@ -4894,6 +4956,10 @@ Tianxiang，看到这些搭配，是不是觉得说话有思路了？
 你看，这样一段话听起来就非常流畅、地道，而且完全是用我们刚刚学的“积木”搭建起来的。多做几次这样的练习，你就能脱口而出了！
 
 感觉怎么样？要不要我们现在就来试一试？
+
+---
+
+## Memory.md
 
 # Memory
 
@@ -5169,6 +5235,10 @@ Tianxiang，看到这些搭配，是不是觉得说话有思路了？
 
 准备好开启新的篇章，向7.5分的目标继续前进了吗？
 
+---
+
+## Mobile_phone.md
+
 # Mobile phone
 
 ## 题目
@@ -5439,6 +5509,10 @@ Tianxiang，看到这些搭配，是不是觉得说话有思路了？
 非常棒，Tianxiang！我们已经把关于手机的方方面面都聊透了。你的“数码迷”背景让这个话题的回答变得非常生动和有说服力。
 
 我们的Part 1话题库已经非常强大了。下次，我强烈建议我们正式进入**雅思口语 Part 2** 的专项练习，我们可以把你对科技的热爱，或者你那台有特殊意义的相机，来做一个完整的2分钟陈述。你准备好了吗？
+
+---
+
+## Morning_Routines.md
 
 # Morning Routines
 
@@ -5794,6 +5868,10 @@ Tianxiang，看到这些搭配，是不是觉得说话有思路了？
 
 我们的Part 1练习已经非常扎实了。接下来，你准备好正式进入**雅思口语 Part 2** 的专项练习了吗？我们可以从一个和你个人经历最相关的话题开始，比如**“Describe your daily routine” (描述你的日常作息)**，这和你刚刚聊的“早晨”话题完美衔接！告诉我你的想法！
 
+---
+
+## Musical_instruments.md
+
 # Musical instruments
 
 ## 题目
@@ -6076,6 +6154,10 @@ Tianxiang，看到这些搭配，是不是觉得说话有思路了？
 非常棒，Tianxiang！你现在拥有了全套关于“音乐与乐器”话题的表达工具了。
 
 我们的Part 1话题库已经非常充实。接下来，你准备好挑战一个完整的Part 2卡片题了吗？我们可以聊聊 “Describe a time you learned a new skill” (描述一次你学习新技能的经历)，你学习吉他的故事就是完美的素材！当然，如果你想，我们也可以继续探索新的Part 1话题。告诉我你的想法！
+
+---
+
+## Names.md
 
 # Names
 
@@ -6393,6 +6475,10 @@ Tianxiang，看到这些搭配，是不是觉得说话有思路了？
 
 感觉怎么样？这些“句子积木”对你有帮助吗？我们接下来可以做什么呢？
 
+---
+
+## Patience.md
+
 # Patience
 
 ## 题目
@@ -6692,6 +6778,10 @@ Tianxiang，看到这些搭配，是不是觉得说话有思路了？
 
 准备好开启新的篇章，向7.5分的目标继续前进了吗？
 
+---
+
+## Plan_Schedule.md
+
 # Plan / Schedule
 
 ## 题目
@@ -6980,6 +7070,10 @@ Tianxiang，看到这些搭配，是不是觉得说话有思路了？
 
 下次练习的时候大胆地用起来吧！还有什么想了解的吗？
 
+---
+
+## Praise_Encouragement.md
+
 # Praise/Encouragement
 
 ## 题目
@@ -7257,6 +7351,10 @@ Think of these patterns as frames. You can put your own ideas and vocabulary ins
 
 What do you think? We could try creating a few sentences together using your own experiences if you like!
 
+---
+
+## Public_transportation.md
+
 # Public transportation
 
 ## 题目
@@ -7476,6 +7574,10 @@ Here are some common and easy-to-use sentence pairings for the "Public Transport
 Try this little exercise: Pick one phrase from the "Advantages" section and one from the "Disadvantages" section and use them to build a short answer to the question: "What are the advantages and disadvantages of taking the bus in your city?"
 
 The more you practice using these chunks, the more automatic they will become!
+
+---
+
+## Puzzles.md
 
 # Puzzles
 
@@ -7706,6 +7808,10 @@ Here is a list of simple but very effective words and phrases for the **"Puzzles
 看到没？一个听起来非常自然的答案就这样诞生了。
 
 建议你花点时间，把你觉得最好用的几组搭配记下来，试着用它们来造几个句子。这样一来，它们就真正成为你的“武器”了！
+
+---
+
+## Saying_'thank_you'.md
 
 # Saying 'thank you'
 
@@ -7973,6 +8079,10 @@ Here is a list of simple but very effective words and phrases for the **"Puzzles
 
 
 
+---
+
+## Singing.md
+
 # Singing
 
 ## 题目
@@ -8188,6 +8298,10 @@ This is how you build a longer, more detailed, and fluent answer from simple par
 
 How does that feel? Shall we try to build an answer together using these blocks?
 
+---
+
+## Snacks.md
+
 # Snacks
 
 ## 题目
@@ -8392,6 +8506,10 @@ Try creating your own sentences now! Pick a frame and fill it in with your own i
 Practicing with these frames will make your answers sound much more structured and fluent.
 
 So, what do you think? Feel free to try making a few sentences, or we can move on to a new topic or question type!
+
+---
+
+## Social_media.md
 
 # Social media
 
@@ -8670,6 +8788,10 @@ So, what do you think? Feel free to try making a few sentences, or we can move o
 
 接下来你想做什么呢？我们可以开始挑战Part 2的卡片题，或者进入一个新的Part 1话题！
 
+---
+
+## Spare_time.md
+
 # Spare time
 
 ## 题目
@@ -8930,6 +9052,10 @@ So, what do you think? Feel free to try making a few sentences, or we can move o
 从我们的下一次互动开始，我将正式带你进入**雅思口语 Part 2** 的专项训练。这是一个全新的、也更有趣的挑战，你将学习如何围绕一个话题，有逻辑、有细节地进行长达两分钟的陈述。
 
 准备好迎接新的篇章了吗？
+
+---
+
+## Spending_time_by_yourself.md
 
 # Spending time by yourself
 
@@ -9199,6 +9325,10 @@ So, what do you think? Feel free to try making a few sentences, or we can move o
 
 准备好开启新的篇章，向7.5分的目标继续前进了吗？
 
+
+---
+
+## Staying_at_home.md
 
 # Staying at home
 
@@ -9503,6 +9633,10 @@ So, what do you think? Feel free to try making a few sentences, or we can move o
 
 我们的Part 1话题已经覆盖得非常全面了。下次，我强烈建议我们正式进入**雅思口语 Part 2** 的专项练习，我们可以把之前聊过的所有素材都利用起来，挑战一下完整的2分钟陈述。你准备好了吗？
 
+---
+
+## Staying_up.md
+
 # Staying up
 
 ## 题目
@@ -9762,6 +9896,10 @@ So, what do you think? Feel free to try making a few sentences, or we can move o
 从我们的下一次互动开始，我将正式带你进入**雅思口语 Part 2** 的专项训练。这是一个全新的、也更有趣的挑战，你将学习如何围绕一个话题卡，有逻辑、有细节地进行长达两分钟的个人陈述。
 
 准备好开启新的篇章，向7.5分的目标继续前进了吗？
+
+---
+
+## Taking_photos.md
 
 # Taking photos
 
@@ -10080,6 +10218,10 @@ So, what do you think? Feel free to try making a few sentences, or we can move o
 这些句子搭配就像是为你量身定做的“口语模板”，把它们和你脑海中的画面结合起来，你的表达一定会非常打动人。
 
 这个话题我们聊得非常深入了！接下来，你想不想挑战一个完整的 Part 2 卡片题，比如 "Describe a hobby you enjoy"？或者我们也可以进入一个全新的话题！
+
+---
+
+## Teacher.md
 
 # Teacher
 
@@ -10400,6 +10542,10 @@ So, what do you think? Feel free to try making a few sentences, or we can move o
 
 我们今天聊得非常深入了！你已经积累了大量关于常见话题的素材和表达方式。接下来，你想挑战一个Part 2的完整话题，还是想进入一个全新的Part 1话题呢？
 
+---
+
+## Text_messages.md
+
 # Text messages
 
 ## 题目
@@ -10671,6 +10817,10 @@ So, what do you think? Feel free to try making a few sentences, or we can move o
 怎么样？这些句子搭配是不是很实用？它们就像是你口语中的“快捷键”，能让你在表达时更快、更准、更地道。
 
 多练习几遍，把它们变成你自己的话！接下来我们想做什么呢？
+
+---
+
+## The_area_you_live_in.md
 
 # The area you live in
 
@@ -11041,6 +11191,10 @@ So, what do you think? Feel free to try making a few sentences, or we can move o
 
 下一次，我强烈建议我们正式进入**雅思口语 Part 2** 的专项练习，这是一个全新的、也更有趣的挑战。你准备好迎接它了吗？我们可以从一个和你个人经历最相关的话题开始，比如**“Describe a place you like to go to relax” (描述一个你喜欢去放松的地方)**，你的健身房就是最完美的素材！告诉我你的想法！
 
+---
+
+## The_city_you_live_in.md
+
 # The city you live in
 
 ## 题目
@@ -11382,6 +11536,10 @@ So, what do you think? Feel free to try making a few sentences, or we can move o
 
 我们Part 1的所有话题已经全部梳理完毕了！你的“弹药库”现在已经非常充足。下一次，我强烈建议我们正式进入**雅思口语 Part 2** 的专项练习，我们可以把你之前聊过的任何一个话题，比如你的家乡、你的爱好、你的导师，或者你现在居住的城市，来做一个完整的2分钟陈述。你准备好了吗？告诉我你的选择！
 
+---
+
+## Weather.md
+
 # Weather
 
 ## 题目
@@ -11597,6 +11755,10 @@ Oh, for sure. I would love to experience a completely different climate. Since C
 把这些短语用到你每天都能想到的场景里，它们很快就会成为你口语的一部分了。
 
 怎么样，Tianxiang？这些搭配是不是很实用？我们可以用它们来做一个完整的Part 2练习，比如 "Describe your favorite weather"，你想试试吗？
+
+---
+
+## Work_studies.md
 
 # Work/studies
 
@@ -11949,6 +12111,10 @@ Oh, for sure. I would love to experience a completely different climate. Since C
 非常棒，Tianxiang！我们已经把关于你学习生活的所有核心表达方式都梳理了一遍。这些句子就是你最宝贵的素材，一定要多看多练，把它们变成你自己的话。
 
 我们的Part 1话题库已经非常丰富了。接下来，你想不想用我们积累的这些素材，来完整地挑战一个Part 2的卡片题呢？比如说，“Describe a subject you enjoy studying.”，这简直就是为你准备的！当然，我们也可以继续探索新的Part 1话题。告诉我你的想法！
+
+---
+
+## Writing.md
 
 # Writing
 

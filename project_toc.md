@@ -50,6 +50,7 @@
       * [c7t4.md](作文/小作文/饼图/c7t4.md)
       * [饼图.md](作文/小作文/饼图/饼图.md)
 * 口语/
+  * [mbti.md](口语/mbti.md)
   * part1/
     * [2025年雅思5月-8月part1题库和答案ztxtech版本.md](口语/part1/2025年雅思5月-8月part1题库和答案ztxtech版本.md)
     * topics/
