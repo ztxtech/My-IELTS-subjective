@@ -3745,7 +3745,7 @@ The remaining categories had considerably lower figures. `[在此处填入类别
 
 ---
 
-## 小作文\流程图(ztx-15x)\c14t3.md
+## 小作文\流程图\c14t3.md
 
 ## 题目
 
@@ -4002,7 +4002,7 @@ Conversely, at night, the process reverses. The intake from the high-level reser
 
 ---
 
-## 小作文\流程图(ztx-15x)\c19t3.md
+## 小作文\流程图\c19t3.md
 
 ## 题目
 <center>
@@ -4112,7 +4112,7 @@ In the subsequent stage, `[某种物质]` is added to `[中间产物B]`, leading
 
 ---
 
-## 小作文\流程图(ztx-15x)\流程图.md
+## 小作文\流程图\流程图.md
 
 ### **第一部分：核心词汇与句型 (Vocabulary & Sentence Structures)**
 
