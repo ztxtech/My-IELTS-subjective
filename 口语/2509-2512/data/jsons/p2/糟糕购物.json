@@ -1,0 +1,14 @@
+{
+    "type": "p2_p3",
+    "topic": "糟糕购物",
+    "p2": "Describe a problem you had while shopping online or in a store You should say: When it happened What you bought What problem you had And explain how you felt about the experience",
+    "p3": [
+        "What kind of customer service do you think is good?",
+        "What are the differences between shopping online and in-store?",
+        "What problems do customers often have while shopping?",
+        "What do you think customers should do when there are problems with products bought online?",
+        "Can customer complaints help improve product quality?",
+        "What do you think of people complaining when they buy poor quality goods at a low price?"
+    ],
+    "label": "经历"
+}

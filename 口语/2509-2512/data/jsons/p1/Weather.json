@@ -1,0 +1,12 @@
+{
+  "type": "p1",
+  "topic": "Weather",
+  "p1": [
+    "What's the weather like where you live?",
+    "Do you prefer cold or hot weather?",
+    "Do you prefer dry or wet weather?",
+    "Are you in the habit of checking the weather forecast? When and how often?",
+    "What do you think are the effects of climate change in recent years?",
+    "Would you like to visit other cities that have different climates from where you live?"
+  ]
+}

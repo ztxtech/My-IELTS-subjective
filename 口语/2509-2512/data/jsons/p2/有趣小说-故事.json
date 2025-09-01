@@ -1,0 +1,14 @@
+{
+    "type": "p2_p3",
+    "topic": "有趣小说/故事",
+    "p2": "Describe a story or novel you have read that you found interesting You should say: When you read it What the story or novel was about Who wrote it And explain why it was interesting",
+    "p3": [
+        "Do you prefer to read e-books or printed books?",
+        "What kinds of novels are suitable for a film adaptation?",
+        "How does technology help people tell stories?",
+        "Why are mystery novels so popular nowadays?",
+        "Is there any difference between the popular novels now and those in the past?",
+        "Why do some people prefer reading novels to playing computer games in this digital world?"
+    ],
+    "label": "事物"
+}

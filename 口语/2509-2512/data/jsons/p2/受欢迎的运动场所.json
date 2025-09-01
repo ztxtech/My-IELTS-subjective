@@ -1,0 +1,13 @@
+{
+    "type": "p2_p3",
+    "topic": "受欢迎的运动场所",
+    "p2": "Describe a popular place for sports (e.g. a stadium) that you ve been to You should say: Where it is When you went there What you did there And explain how you felt about this place",
+    "p3": [
+        "Do young people like to do sports?",
+        "What are the benefits of sports for children?",
+        "Is it necessary to build public sports spaces?",
+        "What do you think of companies donating sports venues for poor children? Is technology helpful for people to do sports?",
+        "Do you think local sports teams can help increase community connections?"
+    ],
+    "label": "地点"
+}

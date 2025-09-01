@@ -1,0 +1,14 @@
+{
+    "type": "p2_p3",
+    "topic": "想尝试的户外运动",
+    "p2": "Describe an outdoor sport you would like to try for the first time You should say: What it is When/where you would like to do it With whom you would like to do it And explain why you would like to do it",
+    "p3": [
+        "What are the differences between indoor sports and outdoor sports?",
+        "What outdoor sports are popular in China?",
+        "What sports are popular among elderly people?",
+        "Which outdoor sports are popular with children?",
+        "How does weather affect outdoor sports?",
+        "Which is more dangerous, team sports or individual sports?"
+    ],
+    "label": "事物"
+}

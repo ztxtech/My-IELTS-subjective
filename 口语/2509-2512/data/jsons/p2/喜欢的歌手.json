@@ -1,0 +1,13 @@
+{
+    "type": "p2_p3",
+    "topic": "喜欢的歌手",
+    "p2": "Describe a singer whose music/songs you like You should say: Who he/she is What genre his/her music belongs to When/where you listen to his/her music/songs And explain why you like him/her and his/her music",
+    "p3": [
+        "What kind of music do people like at different ages?",
+        "What kind of music is popular in China now and what kind will be in the future?",
+        "Do Chinese parents require their children to learn to play musical instruments?",
+        "Why do some people like to listen to live music while others prefer CDs? Can anyone learn how to sing?",
+        "What should the government do to help people with musical talent?"
+    ],
+    "label": "人物"
+}

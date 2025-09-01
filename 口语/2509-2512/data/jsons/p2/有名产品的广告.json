@@ -1,0 +1,14 @@
+{
+    "type": "p2_p3",
+    "topic": "有名产品的广告",
+    "p2": "Describe an advertisement you have seen that introduced a well-known product You should say: When and where you saw the advertisement What the product was How you liked the advertisement And explain how you felt about it",
+    "p3": [
+        "Where do we often see advertisements?",
+        "What are the benefits of advertising?",
+        "Are advertisements good or bad for children?",
+        "How does advertising affect people?",
+        "Do people pay attention to advertisements on public transport?",
+        "Do you think it is good to see the same advertisements everywhere?"
+    ],
+    "label": "事物"
+}

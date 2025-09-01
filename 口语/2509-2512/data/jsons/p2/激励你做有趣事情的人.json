@@ -1,0 +1,14 @@
+{
+    "type": "p2_p3",
+    "topic": "激励你做有趣事情的人",
+    "p2": "Describe a person who inspired you to do something interesting You should say: Who he/she is How you knew him/her What interesting thing you did And explain how he/she inspired you to do it",
+    "p3": [
+        "What qualities make someone a role model?",
+        "Why should children learn from role models?",
+        "Who can influence children more, teachers or parents?",
+        "What kind of international news inspires people?",
+        "Besides parents and teachers, who else can motivate children?",
+        "Can online teaching motivate students to learn? How?"
+    ],
+    "label": "人物"
+}

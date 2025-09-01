@@ -1,0 +1,14 @@
+{
+    "type": "p2_p3",
+    "topic": "搞笑电影",
+    "p2": "Describe a film that made you laugh You should say: What it is When you watched it Who you watched it with And explain why it made you laugh",
+    "p3": [
+        "Do people like comedy?",
+        "Why do people of all ages like cartoons?",
+        "Why do some people like to make others laugh?",
+        "Should teachers tell jokes in class?",
+        "What kind of people like comedy?",
+        "Is it good to tell jokes in business activities?"
+    ],
+    "label": "事物"
+}

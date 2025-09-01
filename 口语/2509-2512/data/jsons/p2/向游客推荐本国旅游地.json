@@ -1,0 +1,14 @@
+{
+    "type": "p2_p3",
+    "topic": "向游客推荐本国旅游地",
+    "p2": "Describe a place in your country or part of your country that you would like to recommend to visitors/travelers You should say: What it is  Where it is What people can do there And explain why you would like to recommend it to visitors/travelers",
+    "p3": [
+        "Is it important to take photos while traveling?",
+        "Can you trust other people's travel journals on the Internet?",
+        "What factors affect how people feel about traveling?",
+        "Will you go to a foreign country to travel because of the distinct landscape?",
+        "How can tourists have a good travel experience?",
+        "What kinds of comments do travelers typically leave online after a trip?"
+    ],
+    "label": "地点"
+}

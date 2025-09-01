@@ -1,0 +1,12 @@
+{
+    "type": "p2_p3",
+    "topic": "想再看的电影",
+    "p2": "Describe a movie you watched recently and would like to watch again You should say: What type of movie it was What it was about Where you watched it And explain why you would like to watch it again",
+    "p3": [
+        "Where do people normally watch movies?",
+        "What are the differences between watching movies at home and in a cinema? Are actors or actresses important to movies? Why?",
+        "Why are there fewer people going to the cinema to watch movies nowadays? What makes a movie a blockbuster?",
+        "Why do people of different ages like different types of movies?"
+    ],
+    "label": "经历"
+}

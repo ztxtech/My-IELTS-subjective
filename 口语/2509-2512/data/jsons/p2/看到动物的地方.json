@@ -1,0 +1,14 @@
+{
+    "type": "p2_p3",
+    "topic": "看到动物的地方",
+    "p2": "Describe a place where you saw many animals You should say: When you went there Who you went with What animals you saw there And explain how you felt about the place",
+    "p3": [
+        "Why do stories and movies for children always feature animals?",
+        "How did animals help people in the past?",
+        "How do animals help us today?",
+        "Do you think people are more interested in animals now than they were in the past?",
+        "Why should we protect animals?",
+        "Do you think children love animals more than old people do?"
+    ],
+    "label": "地点"
+}

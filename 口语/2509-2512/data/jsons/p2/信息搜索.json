@@ -1,0 +1,14 @@
+{
+    "type": "p2_p3",
+    "topic": "信息搜索",
+    "p2": "Describe a time when you needed to search for information You should say: What information you needed to search for When you searched for it Where you searched for it And explain why you needed to search for it",
+    "p3": [
+        "How can people search for information now?",
+        "What information can people get from television?",
+        "Do you think libraries are still important in the digital age?",
+        "Does the development of the Internet have any impact on some disadvantaged people?",
+        "How do people identify reliable information on the Internet?",
+        "Is it good if people could have more access to information in the future?"
+    ],
+    "label": "经历"
+}

@@ -1,0 +1,14 @@
+{
+    "type": "p2_p3",
+    "topic": "二手物品网站",
+    "p2": "Describe a website that sells second-hand items You should say: What it is How you found out about it What people can buy from it And explain whether you like it",
+    "p3": [
+        "Some people think it s a waste to buy too many clothes for children. What do you think?",
+        "How do people usually handle the clothes they don t want?",
+        "Why do people buy second-hand clothes?",
+        "What problems will occur if people don t recycle?",
+        "Should the government encourage people to recycle items?",
+        "How do people in your country recycle various items they don t want?"
+    ],
+    "label": "事物"
+}

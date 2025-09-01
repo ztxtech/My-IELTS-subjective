@@ -1,0 +1,15 @@
+{
+    "type": "p2_p3",
+    "topic": "和老人的有趣谈话",
+    "p2": "Describe an interesting conversation you had with a very old person You should say: Who this person is When and where you had the conversation What you talked about And explain why you think it was interesting",
+    "p3": [
+        "How do people have a conversation with an elderly person?",
+        "What can young people learn from old people?",
+        "Do you think old people can work better than young people?",
+        "What are the advantages of having people of different ages living",
+        "in the same house?",
+        "Has old people's life quality improved when compared to the past?",
+        "Do old people share the same interests as young people?"
+    ],
+    "label": "经历"
+}

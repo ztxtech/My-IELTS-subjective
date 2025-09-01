@@ -1,0 +1,14 @@
+{
+    "type": "p2_p3",
+    "topic": "想再去一次的城市",
+    "p2": "Describe a city that you have been to and would like to visit again You should say: When you visited it What you did there  What it was like And explain why you would like to visit it again",
+    "p3": [
+        "What's the difference between the city and the countryside?",
+        "Some people say large cities are suitable for old people. What do you think?",
+        "Do you think it is possible that all of the population move to cities?",
+        "Do you think people in the countryside are friendlier than people in the city?",
+        "Are there any changes in your city?",
+        "What should the government do to improve citizens  safety?"
+    ],
+    "label": "地点"
+}

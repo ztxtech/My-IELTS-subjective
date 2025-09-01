@@ -1,0 +1,12 @@
+{
+    "type": "p2_p3",
+    "topic": "商店",
+    "p2": "Describe a shop/store you enjoy visiting You should say: What the shop s name is Where it is How often you visit it And explain why you like to visit it",
+    "p3": [
+        "Do people in your country go to the shopping mall frequently?",
+        "How have people s shopping habits changed in recent decades?",
+        "Do you think shops and shopping malls will disappear in the future? What are the differences between shopping in street markets and big shopping malls?",
+        "What are the differences in the shopping habits of different age groups? What are the differences between shopping online and in-store?"
+    ],
+    "label": "地点"
+}

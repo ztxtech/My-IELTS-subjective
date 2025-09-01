@@ -1,0 +1,13 @@
+{
+    "type": "p2_p3",
+    "topic": "漂亮物品",
+    "p2": "Describe an object that you think is beautiful You should say: What it is Where you saw it What it looks like And explain why you think it is beautiful",
+    "p3": [
+        "Do you think there are more beautiful things now than in the past? Why? What beautiful scenery spots are there in your country?",
+        "Why do you think people create beautiful things?",
+        "Where do you think people usually come into contact with beautiful things?",
+        "Do people in your country prefer listening to music to appreciating paintings and literature?",
+        "Why do many people go to scenic spots in person instead of just reading about them in books?"
+    ],
+    "label": "事物"
+}

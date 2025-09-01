@@ -1,0 +1,14 @@
+{
+    "type": "p2_p3",
+    "topic": "聪明的人",
+    "p2": "Describe an intelligent person you know You should say: Who this person is How you knew this person What this person does And explain why you think this person is intelligent",
+    "p3": [
+        "Who do you think plays a more important role in a child s development, teachers or parents?",
+        "Do you think smart people tend to be selfish?",
+        "Are smart people happier than others?",
+        "What games can help children become more intelligent?",
+        "Do you think it is necessary for managers to share their experience with their subordinates?",
+        "Do you think an intelligence test i s a must in company recruitment?"
+    ],
+    "label": "人物"
+}

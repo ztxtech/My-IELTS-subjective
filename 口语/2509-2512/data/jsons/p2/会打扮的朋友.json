@@ -1,0 +1,14 @@
+{
+    "type": "p2_p3",
+    "topic": "会打扮的朋友",
+    "p2": "Describe a friend of yours who is well-dressed and is good at dressing up You should say: Who he/she is How you knew him/her What his/her dressing style is And explain why he/she dresses this way",
+    "p3": [
+        "Do most people in your country prefer to buy clothes online or at the street market? Why?",
+        "Do you think young people know more about fashion and are better at dressing up than elderly people?",
+        "Do you think people would use clothing to show their identity?",
+        "Why do many people prefer to buy rather expensive clothes?",
+        "What are the differences between cheap and expensive clothes?",
+        "Why do some people care so much about their clothing?"
+    ],
+    "label": "人物"
+}

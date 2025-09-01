@@ -1,0 +1,14 @@
+{
+    "type": "p2_p3",
+    "topic": "喜欢的节目",
+    "p2": "Describe a program you like to watch You should say: What it is What it is about Who you watch it with And explain why you like to watch it",
+    "p3": [
+        "What programs do people like to watch in your country?",
+        "Do people in your country like to watch foreign TV programs?",
+        "What's the benefit of letting kids watch animal videos than visiting zoos?",
+        "Do teachers play videos in class in your country?",
+        "Do you think watching talk shows is a waste of time?",
+        "Do you think we can acquire knowledge from watching TV programs?"
+    ],
+    "label": "事物"
+}

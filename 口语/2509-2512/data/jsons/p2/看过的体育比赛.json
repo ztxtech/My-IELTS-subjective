@@ -1,0 +1,11 @@
+{
+    "type": "p2_p3",
+    "topic": "看过的体育比赛",
+    "p2": "Describe a sports competition you watched You should say: What it was When/where you watched it Who you watched it with And explain why you watched it",
+    "p3": [
+        "What kind of competitions do people in your country like to watch? Why?",
+        "Do you think there should be more matches or competitions broadcast on TV? What is the most popular sport in China?",
+        "Do you think it is necessary to award prizes and incentives to athletes?"
+    ],
+    "label": "经历"
+}

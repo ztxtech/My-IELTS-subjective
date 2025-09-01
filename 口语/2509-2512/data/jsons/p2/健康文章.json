@@ -1,0 +1,13 @@
+{
+    "type": "p2_p3",
+    "topic": "健康文章",
+    "p2": "Describe an article on health you read in a magazine or on the Internet You should say: What it was Where you read it Why you read it And how you felt about it",
+    "p3": [
+        "How do today s people keep healthy? Is it difficult to keep healthy?",
+        "Why can t many people keep healthy?",
+        "Where can people find information about keeping healthy?",
+        "Do schools have the responsibility to provide health education?",
+        "What can parents do to help improve their children s health awareness?"
+    ],
+    "label": "事物"
+}

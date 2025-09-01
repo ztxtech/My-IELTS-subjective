@@ -1,0 +1,12 @@
+{
+    "type": "p2_p3",
+    "topic": "别人家的好房子",
+    "p2": "Describe a person s house/apartment that you think is very good You should say: Who this person is What the house/apartment is like How often you visit there And explain why you think it s very good",
+    "p3": [
+        "Why is it so expensive to buy a house or an apartment now?",
+        "Do many people spend a lot of money renovating and decorating their houses or apartments?",
+        "Is natural light important for a house or apartment?",
+        "What kind of houses or apartments do people prefer to buy?"
+    ],
+    "label": "地点"
+}
