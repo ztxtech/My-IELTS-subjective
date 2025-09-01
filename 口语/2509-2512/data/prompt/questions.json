@@ -1,0 +1,853 @@
+{
+  "p1": [
+    {
+      "type": "p1",
+      "topic": "Text messages",
+      "problems": [
+        "How often do you send text messages?",
+        "Is sending messages popular in your country?",
+        "Did you send more messages when you were younger?",
+        "Do you reply to messages as soon as you receive them?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Flowers",
+      "problems": [
+        "Do you love flowers?",
+        "Do you know anyone who loves flowers?",
+        "Are there a lot of flowers where you live?",
+        "Do you take photos of flowers in your daily life?",
+        "Do people in your country often send flowers to others?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Birthday",
+      "problems": [
+        "What do you usually do on your birthday?",
+        "What did you do on your birthday when you were young?",
+        "Do you think it is important for you to celebrate your birthday?",
+        "Whose birthday do you think is the most important to celebrate in China?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Geography",
+      "problems": [
+        "How do you like geography?",
+        "Do you think geography is useful?",
+        "Have you ever learned geography?",
+        "Do you want to be a geography teacher?",
+        "Will you learn more about the geography of other countries?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Names",
+      "problems": [
+        "Does your name have any special meaning?",
+        "How would you choose names for your next generation?",
+        "Does anyone in your family have the same name as you?",
+        "Are there any differences between how Chinese name their children now and in the past?",
+        "Are there any names that are more popular than others in China?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Staying up",
+      "problems": [
+        "Do you often stay up late?",
+        "Did you stay up late when you were a kid?",
+        "What do you do when you stay up late?",
+        "What does it feel like the next morning if you stay up late?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Public transportation",
+      "problems": [
+        "What kind of public transportation do you usually take?",
+        "When do you usually take public transportation, in your everyday life or when you are travelling?",
+        "Do most people prefer public transportation in your country?",
+        "Did you take public transportation when you were a kid?",
+        "Will there be more people taking public transportation in the future?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Saying thank you",
+      "problems": [
+        "Have you ever sent a thank you card to others?",
+        "Do people in your country often say thank you ?",
+        "On what occasions do you say thank you ?",
+        "Why do people need to say thank you ?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Puzzles",
+      "problems": [
+        "Did you do puzzles in your childhood?",
+        "When do you do puzzles, during your trip or when you feel bored?",
+        "Do you like doing word puzzles or number puzzles? Which is more difficult for you?",
+        "Do you think it is good for old people to do puzzles?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Being busy",
+      "problems": [
+        "Are you often busy?",
+        "Why are you busy?",
+        "When are you busy?",
+        "Are you busier now than when you were a child?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Memory",
+      "problems": [
+        "Are you good at memorising things?",
+        "Have you ever forgotten something important?",
+        "What do you need to remember in your daily life?",
+        "How do you remember important things?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Machine",
+      "problems": [
+        "What is your favourite machine in your home?",
+        "Do you think washing machines and sweeping machines are important?",
+        "Do you read the instructions before using a machine?",
+        "Do you think it is important to read the instructions?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Patience",
+      "problems": [
+        "Are you a patient person?",
+        "What is it that makes you feel impatient?",
+        "How do you feel when you have to do something for a long time?",
+        "Does your job require you to be patient?",
+        "Are you more patient now than when you were a child?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Snacks",
+      "problems": [
+        "When do you usually eat snacks now?",
+        "Do you think it is healthy for you to eat snacks?",
+        "Did you often eat snacks when you were young?",
+        "What snacks do you like to eat?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Weather",
+      "problems": [
+        "What's the weather like where you live?",
+        "Do you prefer cold or hot weather?",
+        "Do you prefer dry or wet weather?",
+        "Are you in the habit of checking the weather forecast? When and how often?",
+        "What do you think are the effects of climate change in recent years?",
+        "Would you like to visit other cities that have different climates from where you live?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Writing",
+      "problems": [
+        "Do you write a lot?",
+        "What do you like to write? Why?",
+        "Do you think the things you write would change?",
+        "Do you prefer typing or handwriting when you are writing?",
+        "How often do you keep diaries?",
+        "What other methods do you use to record your life?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Spending time by yourself",
+      "problems": [
+        "Do you usually spend time by yourself?",
+        "What did you do last time you were by yourself?",
+        "How do you usually spend your time by yourself?",
+        "Do you like spending time by yourself?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Spare time",
+      "problems": [
+        "Do you often have free time?",
+        "What do you usually do in your spare time?",
+        "Which day do you have more free time on, Saturday or Sunday?",
+        "Would you like to have more free time in the future?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Housework and cooking",
+      "problems": [
+        "Did you do some house cleaning when you were young?",
+        "What housework do you like or dislike doing?",
+        "Do you like cooking?",
+        "How often do you cook?",
+        "Do you enjoy cooking with others?",
+        "Do you like to cook for a large group of people?",
+        "What do you think of working as a waiter?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "List",
+      "problems": [
+        "Do you make a list when you shop?",
+        "Do you make a list for your work? Does it work?",
+        "Why don't some people like making lists?",
+        "Do you prefer to make a list on paper or your phone?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Singing",
+      "problems": [
+        "Do you like singing? Why?",
+        "Have you ever learnt how to sing?",
+        "Who do you want to sing for?",
+        "Do you think singing can bring happiness to people?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Praise/encouragement",
+      "problems": [
+        "Have you had any achievements recently?",
+        "How do you feel when you are praised?",
+        "When was the last time you praised someone?",
+        "Do you think parents should often praise and encourage their children? Have you ever been praised or encouraged by your teacher?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Internet",
+      "problems": [
+        "When did you start using the internet?",
+        "How often do you go online?",
+        "How does the internet influence people?",
+        "Do you think you spend too much time online?",
+        "What would you do without the internet?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Chocolate",
+      "problems": [
+        "Do you like eating chocolate? Why or why not?",
+        "How often do you eat chocolate?",
+        "Did you often eat chocolate when you were a kid?",
+        "Why do you think chocolate is popular around the world?",
+        "What's your favourite flavour of chocolate?",
+        "Do you think it is good to use chocolate as gifts to others?"
+      ]
+    },
+    {
+      "type": "p1",
+      "topic": "Plan/schedule",
+      "problems": [
+        "Do you like making plans?",
+        "Do you use paper or your cellphone to make plans?",
+        "What are the benefits of making plans?",
+        "Why is it that some people don t make plans?"
+      ]
+    }
+  ],
+  "p2_p3": [
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe an article on health you read in a magazine or on the Internet You should say: What it was Where you read it Why you read it And how you felt about it",
+      "p3": [
+        "How do today s people keep healthy? Is it difficult to keep healthy?",
+        "Why can t many people keep healthy?",
+        "Where can people find information about keeping healthy?",
+        "Do schools have the responsibility to provide health education?",
+        "What can parents do to help improve their children s health awareness?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a person you know who loves to grow plants (e.g. vegetables/fruits/flowers etc.) You should say: Who this person is What he/she grows Where he/she grows them And explain why he/she enjoys growing plants",
+      "p3": [
+        "Are there many people growing their own vegetables now?",
+        "Do you think it s good to let kids learn how to plant?",
+        "What do you think of the job of a farmer?",
+        "What are the differences between traditional and modern agriculture? What happened to the farmers' income during the pandemic?",
+        "How do people grow plants in cities?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe an intelligent person you know You should say: Who this person is How you knew this person What this person does And explain why you think this person is intelligent",
+      "p3": [
+        "Who do you think plays a more important role in a child s development, teachers or parents?",
+        "Do you think smart people tend to be selfish?",
+        "Are smart people happier than others?",
+        "What games can help children become more intelligent?",
+        "Do you think it is necessary for managers to share their experience with their subordinates?",
+        "Do you think an intelligence test i s a must in company recruitment?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a time when you received money as a gift You should say: When it happened Who gave you money Why he/she gave you money And explain how you used the money",
+      "p3": [
+        "Why do people rarely use cash now?",
+        "When do children begin to comprehend the value of money?",
+        "Should parents reward children with money?",
+        "Is it good and necessary to teach children to save money?",
+        "What are the advantages and disadvantages of using credit cards?  Do you think it's a good thing that more people are using digital payment?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe an important thing you learned (not at school or college) You should say: What it was When you learned it How you learned it And explain why it was important",
+      "p3": [
+        "What can children learn from parents?",
+        "Do you think some children are well-behaved because they are influenced by their parents?",
+        "Is it necessary for adults to learn new things? How can people learn new things?",
+        "Does the internet make learning easier or more difficult?",
+        "Can people acquire more knowledge now than before?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a friend of yours who is well-dressed and is good at dressing up You should say: Who he/she is How you knew him/her What his/her dressing style is And explain why he/she dresses this way",
+      "p3": [
+        "Do most people in your country prefer to buy clothes online or at the street market? Why?",
+        "Do you think young people know more about fashion and are better at dressing up than elderly people?",
+        "Do you think people would use clothing to show their identity?",
+        "Why do many people prefer to buy rather expensive clothes?",
+        "What are the differences between cheap and expensive clothes?",
+        "Why do some people care so much about their clothing?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a skill (e.g. driving, cooking, etc.) that you think you can teach other people You should say: What it is Who you would like to teach it to What you should prepare first How you can teach others And explain why you think you are good at teaching this skill",
+      "p3": [
+        "Should teachers be funny when they teach?",
+        "What qualities should teachers have?",
+        "Which do you think is more important, practical skills or academic skills?",
+        "Which age group is the best at learning new things?",
+        "What can be done to improve modern teaching methods?",
+        "What are the differences between online and face-to-face teaching?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe an object that you think is beautiful You should say: What it is Where you saw it What it looks like And explain why you think it is beautiful",
+      "p3": [
+        "Do you think there are more beautiful things now than in the past? Why? What beautiful scenery spots are there in your country?",
+        "Why do you think people create beautiful things?",
+        "Where do you think people usually come into contact with beautiful things?",
+        "Do people in your country prefer listening to music to appreciating paintings and literature?",
+        "Why do many people go to scenic spots in person instead of just reading about them in books?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a person you disliked at first but ended up being friends with You should say: Who he/she is How you knew him/her Why you disliked him/her at first but changed your mind And explain how you feel about the experience",
+      "p3": [
+        "What do you think of making friends online?",
+        "Is it a good idea to make friends with people who are much older than you? Do you enjoy meeting new people?",
+        "Do you think friendship is important?",
+        "Why is it difficult for some people to make friends with others?",
+        "Do we benefit from having friends with different personalities?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a movie you watched recently and would like to watch again You should say: What type of movie it was What it was about Where you watched it And explain why you would like to watch it again",
+      "p3": [
+        "Where do people normally watch movies?",
+        "What are the differences between watching movies at home and in a cinema? Are actors or actresses important to movies? Why?",
+        "Why are there fewer people going to the cinema to watch movies nowadays? What makes a movie a blockbuster?",
+        "Why do people of different ages like different types of movies?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a disagreement you had with someone You should say: Who you had the disagreement with What the disagreement was What happened And explain how you felt about it",
+      "p3": [
+        "What do you do if you disagree with someone?",
+        "How can we stop an argument from escalating into a fight?",
+        "Who do you think should teach children to respect their teacher?",
+        "What disagreements do parents and children usually have?",
+        "Why do some people avoid arguing with others?",
+        "How do we show respect to others when we disagree with them?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a time when a person persuaded you to do something and you were happy about that You should say: Who he/she was When/where it happened What he/she persuaded you to do And explain why you were happy",
+      "p3": [
+        "What impact does advertising have on children and their parents? What do parents often persuade their children to do?",
+        "Who do children listen to more, their parents or their teachers? Why? What are some good ways to persuade children?",
+        "What advice should young people follow?",
+        "How do advertisements persuade people?",
+        "13  P",
+        "Describe a photo you took that you are proud of You should say:",
+        "When you took it",
+        "Where you took it",
+        "What is in this photo",
+        "And explain why you are proud of it",
+        "P3",
+        "Why do some people like to record important things with photos? What can people learn from historical photographs?",
+        "Is taking photos the best way to remember something? Which is better, taking photos or keeping a diary?",
+        "When do people take photos?",
+        "Why do some people like to keep old photos?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a time when you saw children behave badly in public You should say: Where it was What the children were doing How others reacted to it And explain how you felt about it",
+      "p3": [
+        "What bad behavior do children usually have?",
+        "How should parents stop their children from behaving badly in public? Are parents these days stricter than those in the past?",
+        "Whose influence on children is more important? Friends  or parents ? Who is to blame when children have bad behaviors, the parents or the",
+        "children themselves?",
+        "What effect does it have on children when their parents punish them for their bad behaviors?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a person who inspired you to do something interesting You should say: Who he/she is How you knew him/her What interesting thing you did And explain how he/she inspired you to do it",
+      "p3": [
+        "What qualities make someone a role model?",
+        "Why should children learn from role models?",
+        "Who can influence children more, teachers or parents?",
+        "What kind of international news inspires people?",
+        "Besides parents and teachers, who else can motivate children?",
+        "Can online teaching motivate students to learn? How?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a time when you and some other people made a plan to do an activity You should say: What it was When and where you made it What the activity was And explain how you felt about the plan",
+      "p3": [
+        "What kind of plans do young people often make?",
+        "Why can t people always follow their plans?",
+        "Why do people make plans?",
+        "Is it important to make plans?",
+        "Why do some people like to make plans while others just don t like to? Are there any people who never make plans?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a time when you saw something in the sky (e.g. flying kites, birds, sunset, etc.) You should say: What you saw Where/when you saw it/them How long you saw it/them And explain how you felt about the experience",
+      "p3": [
+        "Would people be willing to get up early to watch and enjoy the sunrise? When would people watch the sky?",
+        "Do many people pay attention to the shapes of stars?",
+        "What do people usually see in the sky in the daytime?",
+        "What are the differences between things people see in the sky in the daytime and at night?",
+        "Why do some people like to watch stars at night?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe an impressive and interesting conversation you had that you remember well You should say: Who you talked to When and where you had it What you talked about And explain why you think it was impressive",
+      "p3": [
+        "What topics do young people like to talk about?",
+        "Is it important to have good communication skills at work?",
+        "What are the differences between talking with friends online and face-to- face?",
+        "What are the differences between online and onsite meetings in a company?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe an impressive English lesson you had and enjoyed You should say: What it was about When you had it What the teacher did And why you enjoyed the lesson",
+      "p3": [
+        "Why do people learn foreign languages?",
+        "What makes a good foreign language teacher?",
+        "Do you think grammar is important when learning foreign languages? Is it interesting to be a foreign language teacher? Why?",
+        "What is the impact of information technology on learning foreign languages?",
+        "What effect will it have on the students if the teacher is impatient with them?",
+        "20  P2  С",
+        "Describe a friend from your childhood You should say:",
+        "Who he/she is",
+        "Where and how you met each other",
+        "What you often did together",
+        "And explain what made you like him/her",
+        "P3",
+        "Do you still keep in touch with your friends from childhood? Why or why not?",
+        "How important is childhood friendship to children?",
+        "What do you think of communicating via social media?",
+        "Do you think online communication through social media will replace face- to-face communication?",
+        "What's the difference between having younger friends and older friends? Has technology changed people's friendships? How?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe an advertisement you have seen that introduced a well-known product You should say: When and where you saw the advertisement What the product was How you liked the advertisement And explain how you felt about it",
+      "p3": [
+        "Where do we often see advertisements?",
+        "What are the benefits of advertising?",
+        "Are advertisements good or bad for children?",
+        "How does advertising affect people?",
+        "Do people pay attention to advertisements on public transport?",
+        "Do you think it is good to see the same advertisements everywhere?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a time when you had to share something with others You should say: What it was When it happened Who you shared it with Why you had to share it with others And explain how you felt about it",
+      "p3": [
+        "Do you think kids like to share? Why?",
+        "How can parents teach their children to share?",
+        "What do you think is the benefit of sharing for children?",
+        "Is there anything that parents should persuade children to share with others?",
+        "How can governments encourage shared transport?",
+        "Why is it important to share food with others during a celebration?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a goal you set that you tried your best to achieve You should say: What it was When you set it What you did to achieve it And how you felt about it",
+      "p3": [
+        "Do people in your country set goals?",
+        "Do people usually set long-term goals or short-term ones?",
+        "Why is setting goals important in the workplace?",
+        "What is the difference between goals set by old people and young people? How do people set goals?",
+        "Do you think people should have personal life goals?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a shop/store you enjoy visiting You should say: What the shop s name is Where it is How often you visit it And explain why you like to visit it",
+      "p3": [
+        "Do people in your country go to the shopping mall frequently?",
+        "How have people s shopping habits changed in recent decades?",
+        "Do you think shops and shopping malls will disappear in the future? What are the differences between shopping in street markets and big shopping malls?",
+        "What are the differences in the shopping habits of different age groups? What are the differences between shopping online and in-store?",
+        "25  P2  ȴ",
+        "Describe a time you made a decision to wait for something You should say:",
+        "When it happened",
+        "What you waited for",
+        "Why you made the decision",
+        "And explain how you felt while waiting",
+        "P3",
+        "What do people in your country often do while waiting?",
+        "Why do some people like a slow-paced life? Is being patient good for people? Why?",
+        "Are people less patient now than people in the past? Why?",
+        "Why do children lack patience?",
+        "How can people become more patient?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe an argument two of your friends had You should say: When it happened What it was about How it was solved And how you felt about it",
+      "p3": [
+        "Do you think arguments are important?",
+        "What do family members usually have arguments about?",
+        "Is it easier for you to have arguments with your family or with your friends?",
+        "Do you think people should change the way they think when having arguments?",
+        "When two people have an argument, do you think they should find a third party to ask for advice?",
+        "What qualities make a good lawyer?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a person from a different cultural background with whom you enjoy spending time You should say: Who he/she is Where he/she is from Where/how you knew him/her And explain how you feel about him/her",
+      "p3": [
+        "Is it easy to meet people from different cultural backgrounds in your country?",
+        "What do people from different cultural backgrounds usually talk about with each other?",
+        "Is it good to live in a multicultural society?",
+        "What are the advantages of being friends with people from different cultural backgrounds?",
+        "Why do people choose to travel or live abroad?",
+        "What are the benefits of living in another country?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a time when you forgot/missed an appointment You should say: What the appointment was for Who you made it with Why you forgot/missed it And explain how you felt about the experience",
+      "p3": [
+        "Is punctuality important to people?",
+        "What do you think is a good way to record things? Why?",
+        "Which is more important, a work-related appointment or an appointment with a friend? Why?",
+        "If someone doesn't really like whom they are going to meet, they may deliberately miss their appointment. Is that true? Why?",
+        "Do you think people should remember family history?",
+        "How do people who are busy remember things they need to do?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a person who you think wears unusual clothes You should say: Who this person is How you knew this person What his/her clothes are like And explain why you think his/her clothes are unusual",
+      "p3": [
+        "What are the differences between clothes worn by old people and those by young people?",
+        "What kind of clothes do people wear in the workplace?",
+        "Do you think it is a good idea to buy clothes online?",
+        "Do you think young people wear unusual clothes more than other age groups? Do you think that the style of the clothing is more important than its",
+        "comfort?",
+        "What factors affect people s decisions when buying clothes?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a difficult thing you did and succeeded You should say: What it was How you overcame the difficulties Whether you got help And explain how you felt after you succeeded",
+      "p3": [
+        "Should people set goals for themselves?",
+        "How would you define success?",
+        "How can we judge whether young people are successful nowadays?",
+        "Are successful people often lonely?",
+        "What kinds of success can students achieve at school?",
+        "Should students be proud of their success?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a story or novel you have read that you found interesting You should say: When you read it What the story or novel was about Who wrote it And explain why it was interesting",
+      "p3": [
+        "Do you prefer to read e-books or printed books?",
+        "What kinds of novels are suitable for a film adaptation?",
+        "How does technology help people tell stories?",
+        "Why are mystery novels so popular nowadays?",
+        "Is there any difference between the popular novels now and those in the past?",
+        "Why do some people prefer reading novels to playing computer games in this digital world?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a film that made you laugh You should say: What it is When you watched it Who you watched it with And explain why it made you laugh",
+      "p3": [
+        "Do people like comedy?",
+        "Why do people of all ages like cartoons?",
+        "Why do some people like to make others laugh?",
+        "Should teachers tell jokes in class?",
+        "What kind of people like comedy?",
+        "Is it good to tell jokes in business activities?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a city that you have been to and would like to visit again You should say: When you visited it What you did there  What it was like And explain why you would like to visit it again",
+      "p3": [
+        "What's the difference between the city and the countryside?",
+        "Some people say large cities are suitable for old people. What do you think?",
+        "Do you think it is possible that all of the population move to cities?",
+        "Do you think people in the countryside are friendlier than people in the city?",
+        "Are there any changes in your city?",
+        "What should the government do to improve citizens  safety?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a time when you saw a lot of plastic waste (e.g. in a park, on the beach, etc.) You should say: Where and when you saw the plastic waste Why there were a lot of plastic waste What you did after you saw them And explain what your thoughts were about this",
+      "p3": [
+        "Do you think we should use plastic products?",
+        "How can we reduce our use of plastic?",
+        "What kinds of plastic waste are often seen in your country?",
+        "Why do people like to use plastic products?",
+        "What can the government do to reduce plastic pollution?",
+        "Do you think we can do without plastic altogether in the future?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a popular place for sports (e.g. a stadium) that you ve been to You should say: Where it is When you went there What you did there And explain how you felt about this place",
+      "p3": [
+        "Do young people like to do sports?",
+        "What are the benefits of sports for children?",
+        "Is it necessary to build public sports spaces?",
+        "What do you think of companies donating sports venues for poor children? Is technology helpful for people to do sports?",
+        "Do you think local sports teams can help increase community connections?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a problem you had while shopping online or in a store You should say: When it happened What you bought What problem you had And explain how you felt about the experience",
+      "p3": [
+        "What kind of customer service do you think is good?",
+        "What are the differences between shopping online and in-store?",
+        "What problems do customers often have while shopping?",
+        "What do you think customers should do when there are problems with products bought online?",
+        "Can customer complaints help improve product quality?",
+        "What do you think of people complaining when they buy poor quality goods at a low price?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a program you like to watch You should say: What it is What it is about Who you watch it with And explain why you like to watch it",
+      "p3": [
+        "What programs do people like to watch in your country?",
+        "Do people in your country like to watch foreign TV programs?",
+        "What's the benefit of letting kids watch animal videos than visiting zoos?",
+        "Do teachers play videos in class in your country?",
+        "Do you think watching talk shows is a waste of time?",
+        "Do you think we can acquire knowledge from watching TV programs?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a sports competition you watched You should say: What it was When/where you watched it Who you watched it with And explain why you watched it",
+      "p3": [
+        "What kind of competitions do people in your country like to watch? Why?",
+        "Do you think there should be more matches or competitions broadcast on TV? What is the most popular sport in China?",
+        "Do you think it is necessary to award prizes and incentives to athletes?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a website that sells second-hand items You should say: What it is How you found out about it What people can buy from it And explain whether you like it",
+      "p3": [
+        "Some people think it s a waste to buy too many clothes for children. What do you think?",
+        "How do people usually handle the clothes they don t want?",
+        "Why do people buy second-hand clothes?",
+        "What problems will occur if people don t recycle?",
+        "Should the government encourage people to recycle items?",
+        "How do people in your country recycle various items they don t want?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a person s house/apartment that you think is very good You should say: Who this person is What the house/apartment is like How often you visit there And explain why you think it s very good",
+      "p3": [
+        "Why is it so expensive to buy a house or an apartment now?",
+        "Do many people spend a lot of money renovating and decorating their houses or apartments?",
+        "Is natural light important for a house or apartment?",
+        "What kind of houses or apartments do people prefer to buy?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a sports event that you would like to attend as part of the audience You should say: What it is Who you want to watch with Why you want to be part of the audience And explain how you feel about it",
+      "p3": [
+        "What kinds of sports events are broadcast on TV or other media in your country?",
+        "Do people in your country enjoy watching football games?",
+        "Do encouragement and applause from the audience have an impact on athletes? How do these affect them?",
+        "Which do people in your country prefer to watch, team sports or individual sports?",
+        "What kinds of sports are the most popular in your country?",
+        "Why do so many children like to watch basketball games?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a place in your country or part of your country that you would like to recommend to visitors/travelers You should say: What it is  Where it is What people can do there And explain why you would like to recommend it to visitors/travelers",
+      "p3": [
+        "Is it important to take photos while traveling?",
+        "Can you trust other people's travel journals on the Internet?",
+        "What factors affect how people feel about traveling?",
+        "Will you go to a foreign country to travel because of the distinct landscape?",
+        "How can tourists have a good travel experience?",
+        "What kinds of comments do travelers typically leave online after a trip?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe an outdoor sport you would like to try for the first time You should say: What it is When/where you would like to do it With whom you would like to do it And explain why you would like to do it",
+      "p3": [
+        "What are the differences between indoor sports and outdoor sports?",
+        "What outdoor sports are popular in China?",
+        "What sports are popular among elderly people?",
+        "Which outdoor sports are popular with children?",
+        "How does weather affect outdoor sports?",
+        "Which is more dangerous, team sports or individual sports?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a time when you needed to search for information You should say: What information you needed to search for When you searched for it Where you searched for it And explain why you needed to search for it",
+      "p3": [
+        "How can people search for information now?",
+        "What information can people get from television?",
+        "Do you think libraries are still important in the digital age?",
+        "Does the development of the Internet have any impact on some disadvantaged people?",
+        "How do people identify reliable information on the Internet?",
+        "Is it good if people could have more access to information in the future?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a place where you saw many animals You should say: When you went there Who you went with What animals you saw there And explain how you felt about the place",
+      "p3": [
+        "Why do stories and movies for children always feature animals?",
+        "How did animals help people in the past?",
+        "How do animals help us today?",
+        "Do you think people are more interested in animals now than they were in the past?",
+        "Why should we protect animals?",
+        "Do you think children love animals more than old people do?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe a singer whose music/songs you like You should say: Who he/she is What genre his/her music belongs to When/where you listen to his/her music/songs And explain why you like him/her and his/her music",
+      "p3": [
+        "What kind of music do people like at different ages?",
+        "What kind of music is popular in China now and what kind will be in the future?",
+        "Do Chinese parents require their children to learn to play musical instruments?",
+        "Why do some people like to listen to live music while others prefer CDs? Can anyone learn how to sing?",
+        "What should the government do to help people with musical talent?"
+      ]
+    },
+    {
+      "type": "p2_p3",
+      "topic": "",
+      "p2": "Describe an interesting conversation you had with a very old person You should say: Who this person is When and where you had the conversation What you talked about And explain why you think it was interesting",
+      "p3": [
+        "How do people have a conversation with an elderly person?",
+        "What can young people learn from old people?",
+        "Do you think old people can work better than young people?",
+        "What are the advantages of having people of different ages living",
+        "in the same house?",
+        "Has old people's life quality improved when compared to the past?",
+        "Do old people share the same interests as young people?"
+      ]
+    }
+  ]
+}
