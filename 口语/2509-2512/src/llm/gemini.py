@@ -10,7 +10,7 @@ class Gemini:
     def __init__(self, model='gemini-2.5-flash', api_key=None, system_prompts=None):
 
         if not api_key:
-            self.api_key = os.environ.get('GEMINI_API_KEY')
+            self.api_key = os.environ.get('GEMINI_API_KEY2')
         else:
             self.api_key = api_key
 
@@ -25,7 +25,7 @@ class Gemini:
             for prompt in system_prompts:
                 temp['parts'].append(Part.from_text(text=prompt))
             self.history.append(temp)
-            print(f'System: {'\n'.join(system_prompts)}')
+            # print(f'System: {'\n'.join(system_prompts)}')
 
     def wait(self):
         rpm_dict = {
@@ -35,7 +35,7 @@ class Gemini:
             "gemini-2.0-flash": 15,
             "gemini-2.0-flash-lite": 30
         }
-        time.sleep(math.ceil(60.0 / rpm_dict[self.model]) + 5)
+        time.sleep(math.ceil(60.0 / rpm_dict[self.model]) * 2)
 
     def generate_content(self, parts):
         user_parts = {'role': 'user', 'parts': []}

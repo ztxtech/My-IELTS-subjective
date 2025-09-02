@@ -15,13 +15,8 @@ def generate_p1_answers(input_dir):
             problem = read_json(input_file_path)
 
             if 'label' in problem:
-                continue
-
-            # res = p2_classify(problem).replace(" ", "").replace("\n", "")
-            #
-            # if res not in ['人物', '经历', '事物', '地点']:
-            #     print(f'Invalid answer for {filename}: {res}')
-            #     continue
+                if not problem['label']:
+                    continue
 
             problem['label'] = p2_classify(problem)
 
