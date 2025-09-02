@@ -1,7 +1,7 @@
 import os
 
 from src.agent import p1_generate
-from utils import read_json, write_file
+from utils import read_json, write_file, md2pdf
 
 
 def generate_p1_answers(input_dir, output_dir):
@@ -33,7 +33,8 @@ def generate_p1_answers(input_dir, output_dir):
 
             # 将答案写入文件
             write_file(answer, output_file_path)
-            
+            md2pdf(output_file_path)
+
             print(f'Generated answer for {filename} and saved to {output_file_path}')
 
     print('All answers generated.')

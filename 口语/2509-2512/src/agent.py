@@ -33,9 +33,11 @@ def retry(max_retries=3, base_delay=1):
 
 @retry(max_retries=3, base_delay=1)
 def p1_generate(problem):
-    system_prompts = [filecontent('data/prompt/个人信息.md'),
-                      filecontent('data/prompt/雅思口语答案示范.md'),
-                      filecontent('data/prompt/p1.md')]
+    system_prompts = [
+        filecontent("data/prompt/个人信息.md"),
+        filecontent("data/prompt/雅思口语答案示范.md"),
+        filecontent("data/prompt/p1.md"),
+    ]
     client = Client(system_prompts=system_prompts)
     res = client.generate_content([p1(problem)])
     client.wait()
@@ -45,12 +47,13 @@ def p1_generate(problem):
 @retry(max_retries=3, base_delay=1)
 def p2_classify(problem):
     system_prompts = [
-        filecontent('data/prompt/雅思口语答案示范.md'),
-        filecontent('data/prompt/p2分类.md'), ]
+        filecontent("data/prompt/雅思口语答案示范.md"),
+        filecontent("data/prompt/p2分类.md"),
+    ]
     client = Client(system_prompts=system_prompts)
     res = client.generate_content([p2(problem)]).replace(" ", "").replace("\n", "")
-    if res not in ['人物', '经历', '事物', '地点']:
-        raise ValueError(f'Invalid answer for {problem}: {res}')
+    if res not in ["人物", "经历", "事物", "地点"]:
+        raise ValueError(f"Invalid answer for {problem}: {res}")
     client.wait()
     return res
 
@@ -58,12 +61,13 @@ def p2_classify(problem):
 @retry(max_retries=3, base_delay=1)
 def p2u_classify(problem):
     system_prompts = [
-        filecontent('data/prompt/雅思口语答案示范.md'),
-        filecontent('data/prompt/p2分类.md'), ]
+        filecontent("data/prompt/雅思口语答案示范.md"),
+        filecontent("data/prompt/p2分类.md"),
+    ]
     client = Client(system_prompts=system_prompts)
     res = client.generate_content([p2u(problem)]).replace(" ", "").replace("\n", "")
-    if res not in ['人物', '经历', '事物', '地点']:
-        raise ValueError(f'Invalid answer for {problem}: {res}')
+    if res not in ["人物", "经历", "事物", "地点"]:
+        raise ValueError(f"Invalid answer for {problem}: {res}")
     client.wait()
     return res
 
@@ -71,9 +75,10 @@ def p2u_classify(problem):
 @retry(max_retries=3, base_delay=1)
 def p2_prototype(p2_path, prompt_path):
     system_prompts = [
-        filecontent('data/prompt/雅思口语答案示范.md'),
-        filecontent('./data/prompt/个人信息.md'),
-        filecontent('data/prompt/p2原型生成.md'), ]
+        filecontent("data/prompt/雅思口语答案示范.md"),
+        filecontent("./data/prompt/个人信息.md"),
+        filecontent("data/prompt/p2原型生成.md"),
+    ]
     client = Client(system_prompts=system_prompts)
 
     topics = get_topics(p2_path)
@@ -89,10 +94,12 @@ def p2_prototype(p2_path, prompt_path):
 
 @retry(max_retries=3, base_delay=1)
 def p2_generate(problem):
-    system_prompts = [filecontent('data/prompt/雅思口语答案示范.md'),
-                      filecontent('./data/prompt/个人信息.md'),
-                      filecontent('data/prompt/p2原型.md'),
-                      filecontent('data/prompt/p2.md')]
+    system_prompts = [
+        filecontent("data/prompt/雅思口语答案示范.md"),
+        filecontent("./data/prompt/个人信息.md"),
+        filecontent("data/prompt/p2原型.md"),
+        filecontent("data/prompt/p2.md"),
+    ]
     client = Client(system_prompts=system_prompts)
     res = client.generate_content([p2(problem)])
     client.wait()
@@ -101,10 +108,12 @@ def p2_generate(problem):
 
 @retry(max_retries=3, base_delay=1)
 def p2u_generate(problem):
-    system_prompts = [filecontent('data/prompt/雅思口语答案示范.md'),
-                      filecontent('./data/prompt/个人信息.md'),
-                      filecontent('data/prompt/p2原型.md'),
-                      filecontent('data/prompt/p2u.md')]
+    system_prompts = [
+        filecontent("data/prompt/雅思口语答案示范.md"),
+        filecontent("./data/prompt/个人信息.md"),
+        filecontent("data/prompt/p2原型.md"),
+        filecontent("data/prompt/p2u.md"),
+    ]
     client = Client(system_prompts=system_prompts)
     res = client.generate_content([p2u(problem)])
     client.wait()

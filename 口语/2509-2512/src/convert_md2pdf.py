@@ -17,9 +17,9 @@ def convert_all_md_to_pdf(path="./answer"):
                 md_path = os.path.join(dirpath, filename)
                 pdf_path = md_path.replace(".md", ".pdf")
 
-                # if os.path.exists(pdf_path):
-                #     print(f"{pdf_path} 已经存在，跳过转换。")
-                #     continue
+                if os.path.exists(pdf_path):
+                    print(f"{pdf_path} 已经存在，跳过转换。")
+                    continue
                 print(f"正在处理: {md_path}")
 
                 # 调用md2pdf函数转换PDF

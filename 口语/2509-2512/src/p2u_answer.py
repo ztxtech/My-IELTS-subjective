@@ -1,7 +1,7 @@
 import os
 
 from src.agent import p2u_generate
-from utils import read_json, write_file
+from utils import read_json, write_file, md2pdf
 
 
 def generate_p2u_answers(input_dir, output_dir):
@@ -34,6 +34,7 @@ def generate_p2u_answers(input_dir, output_dir):
             if answer:
                 # 将答案写入文件
                 write_file(answer, output_file_path)
+                md2pdf(output_file_path)
                 print(f"Generated answer for {filename} and saved to {output_file_path}")
             else:
                 print(f"Failed to generate answer for {filename}")
