@@ -515,20 +515,34 @@ h6::before {
   }
 
   @page {
-    /* 为页脚留出一些空间 */
-    margin-bottom: 2cm;
+    /* 根据需要设置页面边距 */
+    /* 顺序为：上、右、下、左 */
+    margin: 1.5cm 1.5cm 1.5cm 1.5cm;
 
-    /* 定义页脚右下角的内容 */
+    /* --- 强制清空所有页眉区域 --- */
+    @top-left {
+      content: ""; /* 设置为空字符串 */
+    }
+    @top-center {
+      content: "";
+    }
+    @top-right {
+      content: "";
+    }
+
+    /* --- 强制清空我们不需要的页脚区域 --- */
+    @bottom-left {
+      content: "";
+    }
+    @bottom-center {
+      content: "";
+    }
+
+    /* --- 只在右下角定义我们想要的页码 --- */
     @bottom-right {
-      /* "content" 就是你要显示的内容。
-         "counter(page)" 是一个内置的 CSS 变量，代表当前页码。*/
-      content: counter(page);
-
-      /* 你还可以自定义页码的样式 */
-      font-size: 9pt;         /* 字体大小 */
-      color: #666666;        /* 字体颜色 */
-      text-align: right;
-      width: 100%;
+      content: counter(page); /* 显示页码 */
+      font-size: 12pt;
+      color: #000000;
     }
   }
 }
