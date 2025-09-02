@@ -40,7 +40,7 @@ A: I **often** take the `bus` or `subway`. They are **very convenient** for movi
 ---
 
 > 2. When do you usually take public transportation, in your everyday life or when you are travelling?
-> 2. 你通常在什么时候乘坐公共交通工具，是日常生活中还是旅行时？
+> 3. 你通常在什么时候乘坐公共交通工具，是日常生活中还是旅行时？
 
 A: I **use** `public transportation` in **both** my `everyday life` and when I `travel`. For example, I **often** take the `bus` to `school`. When I `travel`, I also **like to use** `subways` to see new `cities`.
 (我日常生活中和旅行时都使用公共交通。比如，我经常坐公交车去学校。当我旅行时，我也喜欢坐地铁去看看新的城市。)
@@ -72,7 +72,7 @@ A: I **use** `public transportation` in **both** my `everyday life` and when I `
 ---
 
 > 3. Do most people prefer public transportation in your country?
-> 3. 在你的国家，大多数人更喜欢公共交通吗？
+> 4. 在你的国家，大多数人更喜欢公共交通吗？
 
 A: It `depends` on where they `live`. In `big cities`, **many people prefer** `public transportation` because it's `fast` and avoids `traffic`. But in `smaller towns`, **more people might use** their `cars` because `buses` are `less frequent`.
 (这取决于他们住在哪里。在大城市，很多人喜欢公共交通，因为它快并且能避开堵车。但在小城镇，更多人可能会用他们的汽车，因为公交车班次较少。)
@@ -107,7 +107,7 @@ A: It `depends` on where they `live`. In `big cities`, **many people prefer** `p
 ---
 
 > 4. Did you take public transportation when you were a kid?
-> 4. 你小时候坐过公共交通工具吗？
+> 5. 你小时候坐过公共交通工具吗？
 
 A: **Yes**, I `sometimes` took `public transportation` when I was a `kid`. I **mostly** remember taking the `school bus` to go to `school`. My `parents` also took me on `buses` to `visit places` in our `town`.
 (是的，我小时候有时坐公共交通。我主要记得坐校车去学校。我爸爸妈妈也带我坐公交车去我们镇上的地方玩。)
@@ -143,7 +143,7 @@ A: **Yes**, I `sometimes` took `public transportation` when I was a `kid`. I **m
 ---
 
 > 5. Will there be more people taking public transportation in the future?
-> 5. 未来会有更多人乘坐公共交通工具吗？
+> 6. 未来会有更多人乘坐公共交通工具吗？
 
 A: **Yes**, I `think` `more people` **will use** `public transportation` in the `future`. As `cities grow`, it **will be** `more important` to `move around easily`. Also, it's `better for the Earth` to have `fewer cars`.
 (是的，我想未来会有更多人使用公共交通。随着城市发展，方便出行会更重要。而且，少些汽车对地球也更好。)

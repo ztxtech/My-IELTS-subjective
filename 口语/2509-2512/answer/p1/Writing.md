@@ -79,7 +79,7 @@ A: I `mostly` `write` `research papers` about `time series` for my `major`. This
 > 你认为你写的东西会改变吗？
 
 A: Yes, I think they `might change` in the `future`. I want to `study` abroad, so I `might` `write` about `new cultures` or `different topics`. Also, I want to `learn` to `make vlogs`, so I `might` `write scripts` for them.
-(是的，我认为它们未来可能会改变。我想出国留学，所以我可能会写关于新文化或不同主题的东西。此外，我想学习制作vlog，所以我可能会为它们写脚本。)
+(是的，我认为它们未来可能会改变。我想出国留学，所以我可能会写关于新文化或不同主题的东西。此外，我想学习制作 vlog，所以我可能会为它们写脚本。)
 
 ---
 
@@ -89,7 +89,7 @@ A: Yes, I think they `might change` in the `future`. I want to `study` abroad, s
 
 1.  直接回答会改变。
 2.  阐述未来可能改变的原因（出国学习、新文化、新话题）。
-3.  补充另一个可能改变的方面（学习新技能，如vlog）。
+3.  补充另一个可能改变的方面（学习新技能，如 vlog）。
 
 #### 话题词汇/短语
 
@@ -98,7 +98,7 @@ A: Yes, I think they `might change` in the `future`. I want to `study` abroad, s
 3.  `study abroad`: 出国留学
 4.  `new cultures`: 新文化
 5.  `different topics`: 不同的话题
-6.  `learn to make vlogs`: 学习制作vlog
+6.  `learn to make vlogs`: 学习制作 vlog
 7.  `write scripts`: 写脚本
 
 #### 实用词汇/短语/句式
@@ -137,9 +137,9 @@ A: I `prefer typing` because it is `much faster` for me. It's also `easy to chan
 
 #### 实用词汇/短语/句式
 
-1.  **I prefer X because...**: 我更喜欢X因为... (清晰表达偏好和原因)
+1.  **I prefer X because...**: 我更喜欢 X 因为... (清晰表达偏好和原因)
 2.  **It's also easy to...**: 这也很容易... (补充另一个优点)
-3.  **But for X, Y is also good**: 但对于X，Y也很好 (表示对比和补充)
+3.  **But for X, Y is also good**: 但对于 X，Y 也很好 (表示对比和补充)
 
 ---
 
@@ -170,7 +170,7 @@ A: I `don't keep diaries` `very often`, actually. I `like` to `record` my `life`
 
 #### 实用词汇/短语/句式
 
-1.  **I don't X very often, actually**: 实际上我不太经常X (自然地表达否定和补充)
+1.  **I don't X very often, actually**: 实际上我不太经常 X (自然地表达否定和补充)
 2.  **I like to... in other ways**: 我喜欢用其他方式... (解释替代方法)
 3.  **For example**: 例如 (引入例子)
 
@@ -180,7 +180,7 @@ A: I `don't keep diaries` `very often`, actually. I `like` to `record` my `life`
 > 你还用什么其他方法来记录你的生活？
 
 A: I `mostly use` my `camera` to `record` my `life`. I `take many photos` of `beautiful places` and `special moments`. Also, I want to `learn` how to `make vlogs` to `record` my `daily life`.
-(我主要用我的相机来记录我的生活。我拍很多美丽的地方和特别时刻的照片。此外，我想学习如何制作vlog来记录我的日常生活。)
+(我主要用我的相机来记录我的生活。我拍很多美丽的地方和特别时刻的照片。此外，我想学习如何制作 vlog 来记录我的日常生活。)
 
 ---
 
@@ -200,11 +200,11 @@ A: I `mostly use` my `camera` to `record` my `life`. I `take many photos` of `be
 4.  `take many photos`: 拍很多照片
 5.  `beautiful places`: 美丽的地方
 6.  `special moments`: 特别时刻
-7.  `learn to make vlogs`: 学习制作vlog
+7.  `learn to make vlogs`: 学习制作 vlog
 8.  `daily life`: 日常生活
 
 #### 实用词汇/短语/句式
 
-1.  **I mostly use X to Y**: 我主要用X来Y (清晰说明主要方法和目的)
+1.  **I mostly use X to Y**: 我主要用 X 来 Y (清晰说明主要方法和目的)
 2.  **Also, I want to learn how to...**: 此外，我想学习如何... (引入未来计划或新技能)
 3.  **to record...**: 为了记录... (表达目的)

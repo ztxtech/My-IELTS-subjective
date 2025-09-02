@@ -92,7 +92,7 @@ A: I **mostly** `sing` **for** `myself` **at home**. But **sometimes**, I `sing`
 1.  `sing` (唱歌)
 2.  `myself` (我自己)
 3.  `friends` (朋友)
-4.  `KTV` (KTV，卡拉OK)
+4.  `KTV` (KTV，卡拉 OK)
 5.  `great time` (美好的时光)
 
 #### 实用词汇/短语/句式

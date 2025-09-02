@@ -39,7 +39,7 @@ A: Yes, I often have `free time`. As a student, my schedule can be busy, but I t
 ---
 
 > 2. What do you usually do in your spare time?
-> 2. 你通常在空闲时间做什么？
+> 3. 你通常在空闲时间做什么？
 
 A: When I have `spare time`, I love to `listen to music` and `bake`. Sometimes, I also use my `camera` to `take pictures` of beautiful things. These activities **help me** relax a lot.
 (当我有空闲时间时，我喜欢听音乐和烘焙。有时，我还会用我的相机拍下美丽的事物。这些活动让我放松很多。)
@@ -72,7 +72,7 @@ A: When I have `spare time`, I love to `listen to music` and `bake`. Sometimes, 
 ---
 
 > 3. Which day do you have more free time on, Saturday or Sunday?
-> 3. 周六和周日，你哪天有更多的空闲时间？
+> 4. 周六和周日，你哪天有更多的空闲时间？
 
 A: I usually have more `free time` on **Saturday**. On this day, I can finish my `schoolwork` early and then enjoy my `hobbies`. **Sunday** is often for preparing for the `new week`, so it **feels a bit busier**.
 (我通常在周六有更多的空闲时间。在这一天，我可以早点完成学业，然后享受我的爱好。周日通常是为新的一周做准备，所以感觉会忙一些。)
@@ -104,10 +104,10 @@ A: I usually have more `free time` on **Saturday**. On this day, I can finish my
 ---
 
 > 4. Would you like to have more free time in the future?
-> 4. 你希望未来有更多的空闲时间吗？
+> 5. 你希望未来有更多的空闲时间吗？
 
 A: Absolutely, I **would love to** have more `free time` in the future. With more `time`, I could learn new things like `making vlogs` or `travel` to different places. It **would be great to** explore more of the world and experience `new cultures`.
-(当然，我希望未来能有更多的空闲时间。有了更多时间，我可以学习新东西，比如制作vlog，或者去不同的地方旅行。探索更多世界和体验新文化会很棒。)
+(当然，我希望未来能有更多的空闲时间。有了更多时间，我可以学习新东西，比如制作 vlog，或者去不同的地方旅行。探索更多世界和体验新文化会很棒。)
 
 ---
 
@@ -123,7 +123,7 @@ A: Absolutely, I **would love to** have more `free time` in the future. With mor
 
 1.  `free time`: 空闲时间
 2.  `time`: 时间
-3.  `making vlogs`: 制作vlog
+3.  `making vlogs`: 制作 vlog
 4.  `travel`: 旅行
 5.  `new cultures`: 新文化
 

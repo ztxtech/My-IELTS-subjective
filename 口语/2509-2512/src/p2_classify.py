@@ -15,8 +15,7 @@ def generate_p1_answers(input_dir):
             problem = read_json(input_file_path)
 
             if 'label' in problem:
-                if not problem['label']:
-                    continue
+                continue
 
             problem['label'] = p2_classify(problem)
 

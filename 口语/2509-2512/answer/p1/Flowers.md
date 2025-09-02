@@ -44,7 +44,7 @@ A: Yes, **I really like** `flowers` a lot. **I think** they look so pretty and t
 ---
 
 > 2. Do you know anyone who loves flowers?
-> 2. 你认识喜欢花的人吗？
+> 3. 你认识喜欢花的人吗？
 
 A: Yes, **my mother** `loves flowers` **very much**. She **often buys** them for our house, and she also has **many kinds** of `flowers` in our garden. She **really enjoys** taking care of them and watching them grow.
 (是的，我的妈妈非常喜欢花。她经常为我们家买花，而且她在我们的花园里也种了许多种花。她真的很享受照顾它们，看着它们长大。)
@@ -77,7 +77,7 @@ A: Yes, **my mother** `loves flowers` **very much**. She **often buys** them for
 ---
 
 > 3. Are there a lot of flowers where you live?
-> 3. 你住的地方有很多花吗？
+> 4. 你住的地方有很多花吗？
 
 A: Yes, **there are many** `flowers` in my city, especially in parks and along the streets. Chengdu is **a very green city**, so you can **see different kinds** of `flowers` in all seasons. They make the city **look beautiful** and fresh.
 (是的，我的城市里有很多花，特别是在公园和街道两旁。成都是一个非常绿色的城市，所以你可以在所有季节看到不同种类的花。它们让城市看起来很漂亮很清新。)
@@ -113,7 +113,7 @@ A: Yes, **there are many** `flowers` in my city, especially in parks and along t
 ---
 
 > 4. Do you take photos of flowers in your daily life?
-> 4. 你在日常生活中会拍花吗？
+> 5. 你在日常生活中会拍花吗？
 
 A: Yes, **I love taking pictures** with my camera, so `flowers` are **one of my favorite things** to shoot. They have **many colors** and shapes, which **makes them very interesting**. I always **try to capture** their beauty.
 (是的，我喜欢用我的相机拍照，所以花是我最喜欢拍的东西之一。它们有许多颜色和形状，这让它们非常有趣。我总是努力捕捉它们的美。)
@@ -146,7 +146,7 @@ A: Yes, **I love taking pictures** with my camera, so `flowers` are **one of my 
 ---
 
 > 5. Do people in your country often send flowers to others?
-> 5. 你国家的人经常送花给别人吗？
+> 6. 你国家的人经常送花给别人吗？
 
 A: Yes, **people in my country** `often send flowers` to others for **special days**. For instance, on `Mother's Day` or `Valentine's Day`, people **like to give** `roses` or `carnations`. `Flowers` are **a nice way to show** love and care.
 (是的，我的国家的人经常在特殊的日子送花给别人。例如，在母亲节或情人节，人们喜欢送玫瑰或康乃馨。花是表达爱和关心的好方式。)

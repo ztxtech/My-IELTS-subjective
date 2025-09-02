@@ -3,7 +3,7 @@ import random
 import time
 import traceback
 
-from src.gemini import Gemini as Client
+from src.llm.gemini import Gemini as Client
 from src.utils import filecontent, p1, read_json, write_file, p2
 
 
@@ -65,7 +65,7 @@ def p2_classify(problem):
     system_prompts = [
         filecontent('data/prompt/雅思口语答案示范.md'),
         filecontent('data/prompt/p2分类.md'), ]
-    client = Client(system_prompts=system_prompts, model='gemini-2.5-flash')
+    client = Client(system_prompts=system_prompts)
     res = None
 
     retries = 0
@@ -99,7 +99,7 @@ def p2_prototype(p2_path, prompt_path):
         filecontent('data/prompt/雅思口语答案示范.md'),
         filecontent('./data/prompt/个人信息.md'),
         filecontent('data/prompt/p2原型生成.md'), ]
-    client = Client(system_prompts=system_prompts, model='gemini-2.5-flash')
+    client = Client(system_prompts=system_prompts)
 
     topics = get_topics(p2_path)
     prompt = "下面是part2, part3的话题"
@@ -138,7 +138,7 @@ def p2_generate(problem):
                       filecontent('./data/prompt/个人信息.md'),
                       filecontent('data/prompt/p2原型.md'),
                       filecontent('data/prompt/p2.md')]
-    client = Client(system_prompts=system_prompts, model='gemini-2.5-pro')
+    client = Client(system_prompts=system_prompts)
     res = None
 
     retries = 0
@@ -152,9 +152,10 @@ def p2_generate(problem):
             if retries >= MAX_RETRIES:
                 print(traceback.format_exc())
             else:
+                print(traceback.format_exc())
                 # 指数退避 + 随机抖动
                 client.fail()
-                delay = BASE_DELAY * (2 ** (retries - 1)) + random.uniform(0, 1)
+                delay = BASE_DELAY * (2 ** (retries + 2)) + random.uniform(0, 1)
                 print(f"第{retries}次重试，{delay:.2f}秒后重试...")
                 time.sleep(delay)
 

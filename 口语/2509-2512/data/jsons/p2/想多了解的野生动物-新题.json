@@ -1,0 +1,10 @@
+{
+    "type": "p2_p3",
+    "topic": "想多了解的野生动物",
+    "p2": "Describe a wild animal that you want to know more about. You should say: What it is, When you saw it, Where you saw it, And explain why you want to know more about it",
+    "p3": [
+        "Why are some people more willing to protect wild animals than others?",
+        "Do you think it's important to take children to the zoo to see animals?"
+    ],
+    "label": "事物"
+}

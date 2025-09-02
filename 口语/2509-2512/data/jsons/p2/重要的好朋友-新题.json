@@ -1,0 +1,10 @@
+{
+    "type": "p2_p3",
+    "topic": "重要的好朋友",
+    "p2": "Describe a good friend who is important to you. You should say: Who he/she is, How/where you got to know him/her, How long you have known each other, And explain why he/she is important to you",
+    "p3": [
+        "Do you think it is better for children to have a few close friends or many casual friends?",
+        "Do you think a child's relationship with friends can be replaced by that with other people, like parents or other family members?"
+    ],
+    "label": "人物"
+}

@@ -1,0 +1,12 @@
+{
+    "type": "p2_p3",
+    "topic": "想去的多树之地",
+    "p2": "Describe a place with a lot of trees that you would like to visit (e.g. a forest, oasis). You should say: Where it is, How you knew this place, What it is like, And explain why you would like to visit it",
+    "p3": [
+        "Why do people like visiting places with trees or forests?",
+        "Are natural views better than city views?",
+        "Do all people need some nature?",
+        "Are people hard-wired to protect environment?"
+    ],
+    "label": "地点"
+}

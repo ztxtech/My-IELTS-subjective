@@ -1,0 +1,14 @@
+{
+    "type": "p2_p3",
+    "topic": "迷路",
+    "p2": "Describe an occasion when you lost your way. You should say: Where you were, What happened, How you felt, And explain how you found your way",
+    "p3": [
+        "Why do some people get lost more easily than others?",
+        "Do you think it is important to be able to read a map?",
+        "Do you think it is important to do some preparation before you travel to new places?",
+        "How can people find their way when they are lost?",
+        "Is a paper map still necessary?",
+        "How do people react when they get lost?"
+    ],
+    "label": "经历"
+}

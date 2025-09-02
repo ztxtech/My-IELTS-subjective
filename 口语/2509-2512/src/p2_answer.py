@@ -12,34 +12,38 @@ def generate_p2_answers(input_dir, output_dir):
 
     # 遍历输入目录中的所有JSON文件
     for filename in os.listdir(input_dir):
-        if filename.endswith('.json'):
+        if filename.endswith(".json"):
             # 构造完整的文件路径
             input_file_path = os.path.join(input_dir, filename)
-
-            # 构造输出文件路径
-            output_filename = filename.replace('.json', '.md')
-            output_file_path = os.path.join(output_dir, output_filename)
-
-            # 检查输出文件是否已存在
-            if os.path.exists(output_file_path):
-                print(f'Answer for {filename} already exists, skipping...')
-                continue
 
             # 读取JSON文件
             problem = read_json(input_file_path)
 
+            # 构造输出文件路径
+            output_filename = filename.replace(".json", ".md")
+            label_path = os.path.join(output_dir, problem["label"])
+            os.makedirs(label_path, exist_ok=True)
+            output_file_path = os.path.join(label_path, output_filename)
+
+            # 检查输出文件是否已存在
+            if os.path.exists(output_file_path):
+                print(f"Answer for {filename} already exists, skipping...")
+                continue
+
             # 生成答案
             answer = p2_generate(problem)
 
-            # 将答案写入文件
-            write_file(answer, output_file_path)
+            if answer:
+                # 将答案写入文件
+                write_file(answer, output_file_path)
+                print(f"Generated answer for {filename} and saved to {output_file_path}")
+            else:
+                print(f"Failed to generate answer for {filename}")
 
-            print(f'Generated answer for {filename} and saved to {output_file_path}')
-
-    print('All answers generated.')
+    print("All answers generated.")
 
 
-if __name__ == '__main__':
-    input_dir = 'data/jsons/p2'
-    output_dir = 'answer/p2'
+if __name__ == "__main__":
+    input_dir = "data/jsons/p2/"
+    output_dir = "answer/p2/"
     generate_p2_answers(input_dir, output_dir)

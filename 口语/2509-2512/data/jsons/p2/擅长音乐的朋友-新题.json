@@ -1,0 +1,14 @@
+{
+    "type": "p2_p3",
+    "topic": "擅长音乐的朋友",
+    "p2": "Describe a friend of yours who is good at music/singing. You should say: Who he/she is, When/where you listen to his/her music/singing, What kind of music/songs he/she is good at, And explain how you feel when listening to his music/singing",
+    "p3": [
+        "What kind of music is popular in your country?",
+        "What kind of music do young people like?",
+        "Do you think music is beneficial for children at school?",
+        "What are the benefits of children learning a musical instrument?",
+        "Do you know what kind of music children like today?",
+        "Do you think the government should invest more money on concerts?"
+    ],
+    "label": "人物"
+}

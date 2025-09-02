@@ -10,7 +10,7 @@
 ## 回答
 
 > 1. Do you usually spend time by yourself?
-> 你通常会自己一个人待着吗？
+>    你通常会自己一个人待着吗？
 
 A: **Yes**, I **often** `spend time by myself`. It **helps** me **relax** and **think** about things.
 (是的，我经常自己待着。这能帮我放松和思考事情。)
@@ -38,7 +38,7 @@ A: **Yes**, I **often** `spend time by myself`. It **helps** me **relax** and **
 ---
 
 > 2. What did you do last time you were by yourself?
-> 上次你一个人待着的时候做了什么？
+>    上次你一个人待着的时候做了什么？
 
 A: **Last time**, I was `by myself`, I **listened** to `music` and `baked` some yummy cakes. It was **fun**.
 (上次我一个人待着的时候，我听了音乐，还烤了一些好吃的蛋糕。这很有趣。)
@@ -67,7 +67,7 @@ A: **Last time**, I was `by myself`, I **listened** to `music` and `baked` some 
 ---
 
 > 3. How do you usually spend your time by yourself?
-> 你通常是怎么一个人度过时间的？
+>    你通常是怎么一个人度过时间的？
 
 A: I **usually** `listen to music`, `bake` sweet treats, or `take pictures` with my camera. It **feels** good to **do** what I `love`.
 (我通常会听音乐，烤甜点，或者用我的相机拍照。做我喜欢的事情感觉很好。)
@@ -97,7 +97,7 @@ A: I **usually** `listen to music`, `bake` sweet treats, or `take pictures` with
 ---
 
 > 4. Do you like spending time by yourself?
-> 你喜欢一个人待着吗？
+>    你喜欢一个人待着吗？
 
 A: **Yes**, I **really** `like spending time by myself`. It's **important** for me to **have** some `peaceful time` and **recharge**.
 (是的，我真的很喜欢自己待着。对我来说，有一些安静的时间并恢复精力很重要。)

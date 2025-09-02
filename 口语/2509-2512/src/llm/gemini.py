@@ -2,8 +2,12 @@ import math
 import os
 import time
 
+from colorama import init, Fore
 from google import genai
 from google.genai.types import Part
+
+# 初始化colorama
+init(autoreset=True)
 
 
 class Gemini:
@@ -17,8 +21,8 @@ class Gemini:
         self.model = model
         self.client = genai.Client(api_key=self.api_key)
         print("\n" * 2)
-        print('Gemini initialized with model: {}'.format(self.model))
-        print("-" * 20)
+        print(Fore.GREEN + 'Gemini initialized with model: {}'.format(self.model))
+        print(Fore.YELLOW + "-" * 20)
         self.history = []
         if system_prompts:
             temp = {'role': 'user', 'parts': []}
@@ -48,10 +52,10 @@ class Gemini:
         )
         self.history.append({'role': 'model', 'parts': [Part.from_text(text=response.text)]})
 
-        print(f'User: {'\n'.join(parts)}')
-        print(f'Gemini: {response.text}')
-        print(f'TOKEN CONSUME: {response.usage_metadata.total_token_count}')
-        print('-' * 20)
+        print(Fore.BLUE + f'User: {'\n'.join(parts)}')
+        print(Fore.MAGENTA + f'Gemini: {response.text}')
+        print(Fore.RED + f'TOKEN CONSUME: {response.usage_metadata.total_token_count}')
+        print(Fore.YELLOW + '-' * 20)
         return response.text
 
     def fail(self):

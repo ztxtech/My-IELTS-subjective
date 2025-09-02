@@ -1,0 +1,12 @@
+{
+    "type": "p2_p3",
+    "topic": "想再去的旅行",
+    "p2": "Describe a trip you would like to make again. You should say: Where and when you went, Who you made the trip with, What you did during the trip, And explain why you would like to make the trip again",
+    "p3": [
+        "Why do people like travelling?",
+        "What should we prepare before a trip?",
+        "What would happen if no preparation were made before the trip?",
+        "Why do some people prefer to travel in their own country rather than going abroad?"
+    ],
+    "label": "经历"
+}

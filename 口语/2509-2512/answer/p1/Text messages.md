@@ -39,7 +39,7 @@ A: I send `text messages` **almost** `every day`. **It's how** I `talk to friend
 ---
 
 > 2. Is sending messages popular in your country?
-> 2. 发信息在你的国家流行吗？
+> 3. 发信息在你的国家流行吗？
 
 A: Oh yes, `sending messages` **is** `very popular` **here**. `Everyone` `uses them` `to communicate`, **because** `it's fast` **and** `easy`.
 (哦，是的，`发信息` **在** `这里` **非常** `流行`。`每个人` 都 `用它们` `交流`，**因为** `它又快` **又** `简单`。)
@@ -70,7 +70,7 @@ A: Oh yes, `sending messages` **is** `very popular` **here**. `Everyone` `uses t
 ---
 
 > 3. Did you send more messages when you were younger?
-> 3. 你小时候发更多短信吗？
+> 4. 你小时候发更多短信吗？
 
 A: **When** I `was younger`, I `didn't send as many` `messages`. **Back then**, `we often` `talked face to face` **or** `called each other`.
 (我`小时候`，我 `没发那么多` `短信`。**那时**，`我们` `经常` `面对面说话` **或者** `互相打电话`。)
@@ -101,7 +101,7 @@ A: **When** I `was younger`, I `didn't send as many` `messages`. **Back then**, 
 ---
 
 > 4. Do you reply to messages as soon as you receive them?
-> 4. 你收到信息后会马上回复吗？
+> 5. 你收到信息后会马上回复吗？
 
 A: **Well**, `it depends` **on** `the message`. **If it's** `important`, I `reply very fast`, **but for** `others`, I `might wait` **a bit**.
 (**嗯**，`这取决于` `信息`。**如果它** `重要`，我 `回复得很快`，**但对于** `其他的`，我 `可能会等` `一下`。)

@@ -1,0 +1,12 @@
+{
+    "type": "p2_p3",
+    "topic": "告诉朋友实情",
+    "p2": "Describe a time when you told your friend an important truth. You should say: Who your friend is, What the truth was, What your friend's reaction was, And explain why you think it was important to tell your friend the truth",
+    "p3": [
+        "Do you think it's more important to win a game or follow the rules in sports?",
+        "Sometimes people should tell lies. Do you agree?",
+        "How do you know when others are telling lies?",
+        "Do you think we should tell the truth at all times?"
+    ],
+    "label": "经历"
+}
