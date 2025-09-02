@@ -91,6 +91,14 @@ def p2(problem):
     )
 
 
+def p2u(problem):
+    template = """
+    topic: {topic}
+    """
+
+    return template.format(topic=problem['topic'])
+
+
 def p1(problem):
     template = """
     topic: {topic}
@@ -113,3 +121,22 @@ def write_file(content, output_file_path):
     """将答案写入文件"""
     with open(output_file_path, 'w', encoding='utf-8') as f:
         f.write(content)
+
+
+def get_topics(path):
+    topics = []
+
+    # 遍历目录下的所有文件
+    for filename in os.listdir(path):
+        if filename.endswith('.json'):
+            file_path = os.path.join(path, filename)
+            try:
+                data = read_json(file_path)
+                # 提取topic字段
+                if 'topic' in data:
+                    topics.append(data['topic'])
+            except Exception as e:
+                print(f"读取文件 {filename} 时出错: {e}")
+                continue
+
+    return topics

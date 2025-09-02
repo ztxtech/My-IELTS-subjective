@@ -1,0 +1,12 @@
+{
+    "type": "p2_p3",
+    "topic": "想提升的天赋",
+    "p2": "Describe a natural talent (sports, music, etc.) you want to improve. You should say: What it is, When you discovered it, How you want to improve it, And how you feel about it",
+    "p3": [
+        "Do you think artists with talents should focus on their talents?",
+        "Is it possible for us to know whether children who are 3 or 4 years old will become musicians and painters when they grow up?",
+        "Why do people like to watch talent shows?",
+        "Do you think it is more interesting to watch famous people's or ordinary people's shows?"
+    ],
+    "label": "事物"
+}

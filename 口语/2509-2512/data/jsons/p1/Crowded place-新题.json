@@ -1,0 +1,11 @@
+{
+  "type": "p1",
+  "topic": "Crowded place",
+  "p1": [
+    "Is the city where you live crowded?",
+    "Is there a crowded place near where you live?",
+    "Do you like crowded places?",
+    "Do most people like crowded places?",
+    "When was the last time you were in a crowded place?"
+  ]
+}

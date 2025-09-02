@@ -1,100 +1,75 @@
-import os
 import random
 import time
 import traceback
+from functools import wraps
 
 from src.llm.gemini import Gemini as Client
-from src.utils import filecontent, p1, read_json, write_file, p2
+from src.utils import filecontent, p1, write_file, p2, p2u, get_topics
 
 
-def get_topics(path):
-    topics = []
+def retry(max_retries=3, base_delay=1):
+    def decorator(func):
+        @wraps(func)
+        def wrapper(*args, **kwargs):
+            retries = 0
+            while retries < max_retries:
+                try:
+                    return func(*args, **kwargs)
+                except Exception as e:
+                    retries += 1
+                    if retries >= max_retries:
+                        print(traceback.format_exc())
+                        raise
+                    else:
+                        # 指数退避 + 随机抖动
+                        delay = base_delay * (2 ** (retries + 1)) + random.uniform(0, 1)
+                        print(f"第{retries}次重试，{delay:.2f}秒后重试...")
+                        time.sleep(delay)
 
-    # 遍历目录下的所有文件
-    for filename in os.listdir(path):
-        if filename.endswith('.json'):
-            file_path = os.path.join(path, filename)
-            try:
-                data = read_json(file_path)
-                # 提取topic字段
-                if 'topic' in data:
-                    topics.append(data['topic'])
-            except Exception as e:
-                print(f"读取文件 {filename} 时出错: {e}")
-                continue
+        return wrapper
 
-    return topics
+    return decorator
 
 
+@retry(max_retries=3, base_delay=1)
 def p1_generate(problem):
-    # 设置重试参数
-    MAX_RETRIES = 3
-    BASE_DELAY = 1  # 基础延迟秒数
-
     system_prompts = [filecontent('data/prompt/个人信息.md'),
                       filecontent('data/prompt/雅思口语答案示范.md'),
                       filecontent('data/prompt/p1.md')]
     client = Client(system_prompts=system_prompts)
-    res = None
-
-    retries = 0
-    while retries < MAX_RETRIES:
-        try:
-            res = client.generate_content([p1(problem)])
-            client.wait()
-            break  # 成功则跳出重试循环
-        except:
-            retries += 1
-            if retries >= MAX_RETRIES:
-                print(traceback.format_exc())
-            else:
-                # 指数退避 + 随机抖动
-                client.fail()
-                delay = BASE_DELAY * (2 ** (retries - 1)) + random.uniform(0, 1)
-                print(f"第{retries}次重试，{delay:.2f}秒后重试...")
-                time.sleep(delay)
-
+    res = client.generate_content([p1(problem)])
+    client.wait()
     return res
 
 
+@retry(max_retries=3, base_delay=1)
 def p2_classify(problem):
-    # 设置重试参数
-    MAX_RETRIES = 3
-    BASE_DELAY = 1  # 基础延迟秒数
-
     system_prompts = [
         filecontent('data/prompt/雅思口语答案示范.md'),
         filecontent('data/prompt/p2分类.md'), ]
     client = Client(system_prompts=system_prompts)
-    res = None
-
-    retries = 0
-    while retries < MAX_RETRIES:
-        try:
-            res = client.generate_content([p2(problem)]).replace(" ", "").replace("\n", "")
-            if res not in ['人物', '经历', '事物', '地点']:
-                raise ValueError(f'Invalid answer for {problem}: {res}')
-            client.wait()
-            break  # 成功则跳出重试循环
-        except:
-            retries += 1
-            if retries >= MAX_RETRIES:
-                print(traceback.format_exc())
-            else:
-                # 指数退避 + 随机抖动
-                client.fail()
-                delay = BASE_DELAY * (2 ** (retries - 1)) + random.uniform(0, 1)
-                print(f"第{retries}次重试，{delay:.2f}秒后重试...")
-                time.sleep(delay)
-
+    res = client.generate_content([p2(problem)]).replace(" ", "").replace("\n", "")
+    if res not in ['人物', '经历', '事物', '地点']:
+        raise ValueError(f'Invalid answer for {problem}: {res}')
+    client.wait()
     return res
 
 
-def p2_prototype(p2_path, prompt_path):
-    # 设置重试参数
-    MAX_RETRIES = 3
-    BASE_DELAY = 1  # 基础延迟秒数
+@retry(max_retries=3, base_delay=1)
+def p2u_classify(problem):
+    system_prompts = [
+        filecontent('data/prompt/雅思口语答案示范.md'),
+        filecontent('data/prompt/p2分类.md'), ]
+    client = Client(system_prompts=system_prompts)
+    res = client.generate_content([p2u(problem)]).replace(" ", "").replace("\n", "")
+    if res not in ['人物', '经历', '事物', '地点']:
+        raise ValueError(f'Invalid answer for {problem}: {res}')
+    client.wait()
+    return res
 
+
+@retry(max_retries=3, base_delay=1)
+def p2_prototype(p2_path, prompt_path):
     system_prompts = [
         filecontent('data/prompt/雅思口语答案示范.md'),
         filecontent('./data/prompt/个人信息.md'),
@@ -106,57 +81,31 @@ def p2_prototype(p2_path, prompt_path):
     for topic in topics:
         prompt += f"\n- {topic}"
 
-    res = None
-
-    retries = 0
-    while retries < MAX_RETRIES:
-        try:
-            res = client.generate_content([prompt])
-            client.wait()
-            write_file(res, prompt_path)
-            break  # 成功则跳出重试循环
-        except:
-            retries += 1
-            if retries >= MAX_RETRIES:
-                print(traceback.format_exc())
-            else:
-                # 指数退避 + 随机抖动
-                client.fail()
-                delay = BASE_DELAY * (2 ** (retries - 1)) + random.uniform(0, 1)
-                print(f"第{retries}次重试，{delay:.2f}秒后重试...")
-                time.sleep(delay)
-
+    res = client.generate_content([prompt])
+    client.wait()
+    write_file(res, prompt_path)
     return res
 
 
+@retry(max_retries=3, base_delay=1)
 def p2_generate(problem):
-    # 设置重试参数
-    MAX_RETRIES = 3
-    BASE_DELAY = 1  # 基础延迟秒数
-
     system_prompts = [filecontent('data/prompt/雅思口语答案示范.md'),
                       filecontent('./data/prompt/个人信息.md'),
                       filecontent('data/prompt/p2原型.md'),
                       filecontent('data/prompt/p2.md')]
     client = Client(system_prompts=system_prompts)
-    res = None
+    res = client.generate_content([p2(problem)])
+    client.wait()
+    return res
 
-    retries = 0
-    while retries < MAX_RETRIES:
-        try:
-            res = client.generate_content([p2(problem)])
-            client.wait()
-            break  # 成功则跳出重试循环
-        except:
-            retries += 1
-            if retries >= MAX_RETRIES:
-                print(traceback.format_exc())
-            else:
-                print(traceback.format_exc())
-                # 指数退避 + 随机抖动
-                client.fail()
-                delay = BASE_DELAY * (2 ** (retries + 2)) + random.uniform(0, 1)
-                print(f"第{retries}次重试，{delay:.2f}秒后重试...")
-                time.sleep(delay)
 
+@retry(max_retries=3, base_delay=1)
+def p2u_generate(problem):
+    system_prompts = [filecontent('data/prompt/雅思口语答案示范.md'),
+                      filecontent('./data/prompt/个人信息.md'),
+                      filecontent('data/prompt/p2原型.md'),
+                      filecontent('data/prompt/p2u.md')]
+    client = Client(system_prompts=system_prompts)
+    res = client.generate_content([p2u(problem)])
+    client.wait()
     return res

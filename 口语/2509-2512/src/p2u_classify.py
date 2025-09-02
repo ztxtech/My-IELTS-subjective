@@ -1,10 +1,10 @@
 import os
 
-from src.agent import p2_classify
+from src.agent import p2u_classify
 from utils import read_json, write_json
 
 
-def classify_p2(input_dir):
+def classify_p2u(input_dir):
     """批量生成part1的答案"""
 
     # 遍历输入目录中的所有JSON文件
@@ -17,7 +17,7 @@ def classify_p2(input_dir):
             if 'label' in problem:
                 continue
 
-            problem['label'] = p2_classify(problem)
+            problem['label'] = p2u_classify(problem)
 
             # 将答案写入文件
             write_json(problem, input_file_path)
@@ -26,5 +26,5 @@ def classify_p2(input_dir):
 
 
 if __name__ == '__main__':
-    input_dir = 'data/jsons/p2'
-    classify_p2(input_dir)
+    input_dir = 'data/jsons/p2u'
+    classify_p2u(input_dir)
