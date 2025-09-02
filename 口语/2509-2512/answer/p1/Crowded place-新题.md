@@ -109,7 +109,7 @@ A: Not **really**, I **don't** `like crowded places` **very much**. Sometimes it
 > 大多数人喜欢拥挤的地方吗？
 
 A: I **think** it `depends` on the person. Some people **might** `enjoy` the `lively atmosphere` and `meeting friends` in `crowded places`. **But others**, **like me**, **might** `prefer quietness`.
-(我**认为**这`取决于`个人。有些人**可能**`享受``热闹的气氛`和在`拥挤的地方``结识朋友`。**但其他人**，**像我一样**，**可能**`更喜欢安静`。)
+(我**认为**这`取决于`个人。有些人**可能**` 享受``热闹的气氛 `和在` 拥挤的地方``结识朋友 `。**但其他人**，**像我一样**，**可能**`更喜欢安静`。)
 
 ---
 

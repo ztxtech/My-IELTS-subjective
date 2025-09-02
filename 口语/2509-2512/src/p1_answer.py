@@ -33,7 +33,7 @@ def generate_p1_answers(input_dir, output_dir):
 
             # 将答案写入文件
             write_file(answer, output_file_path)
-
+            
             print(f'Generated answer for {filename} and saved to {output_file_path}')
 
     print('All answers generated.')
