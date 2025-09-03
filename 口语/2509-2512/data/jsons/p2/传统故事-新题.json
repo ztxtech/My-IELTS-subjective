@@ -1,13 +1,14 @@
 {
-  "type": "p2_p3",
-  "topic": "传统故事",
-  "p2": "Describe an interesting traditional story\nYou should say:\nWhat the story is about\nWhen/how you knew it\nWho told you the story\nAnd explain how you felt when you first heard it",
-  "p3": [
-    "What kind of stories do children like?",
-    "What are the benefits of bedtime stories for children?",
-    "Why do most children like listening to stories before bedtime?",
-    "What can children learn from stories?",
-    "Do all stories for children have happy endings?",
-    "Is a good storyline important for a movie?"
-  ]
+    "type": "p2_p3",
+    "topic": "传统故事",
+    "p2": "Describe an interesting traditional story\nYou should say:\nWhat the story is about\nWhen/how you knew it\nWho told you the story\nAnd explain how you felt when you first heard it",
+    "p3": [
+        "What kind of stories do children like?",
+        "What are the benefits of bedtime stories for children?",
+        "Why do most children like listening to stories before bedtime?",
+        "What can children learn from stories?",
+        "Do all stories for children have happy endings?",
+        "Is a good storyline important for a movie?"
+    ],
+    "label": "事物"
 }

@@ -1,6 +1,9 @@
 {
-  "type": "p2_p3",
-  "topic": "远行",
-  "p2": "Describe a long journey you had\nYou should say:\nWhere you went\nWho you had the journey with\nWhy you had the journey\nAnd explain how you felt about the journey",
-  "p3": ["How easy is it to travel around your country?"]
+    "type": "p2_p3",
+    "topic": "远行",
+    "p2": "Describe a long journey you had\nYou should say:\nWhere you went\nWho you had the journey with\nWhy you had the journey\nAnd explain how you felt about the journey",
+    "p3": [
+        "How easy is it to travel around your country?"
+    ],
+    "label": "经历"
 }

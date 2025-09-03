@@ -51,7 +51,7 @@ def p2_classify(problem):
         filecontent("data/prompt/雅思口语答案示范.md"),
         filecontent("data/prompt/p2分类.md"),
     ]
-    client = Gemini(system_prompts=system_prompts)
+    client = ModelScope(system_prompts=system_prompts)
     res = client.generate_content([p2(problem)]).replace(" ", "").replace("\n", "")
     if res not in ["人物", "经历", "事物", "地点"]:
         raise ValueError(f"Invalid answer for {problem}: {res}")
@@ -65,7 +65,7 @@ def p2u_classify(problem):
         filecontent("data/prompt/雅思口语答案示范.md"),
         filecontent("data/prompt/p2分类.md"),
     ]
-    client = ModelScope(system_prompts=system_prompts)
+    client = Gemini(system_prompts=system_prompts)
     res = client.generate_content([p2u(problem)]).replace(" ", "").replace("\n", "")
     if res not in ["人物", "经历", "事物", "地点"]:
         raise ValueError(f"Invalid answer for {problem}: {res}")
@@ -99,9 +99,10 @@ def p2_generate(problem):
         filecontent("data/prompt/雅思口语答案示范.md"),
         filecontent("./data/prompt/个人信息.md"),
         filecontent("data/prompt/p2原型.md"),
+        filecontent("./data/prompt/p3思路.md"),
         filecontent("data/prompt/p2.md"),
     ]
-    client = Gemini(system_prompts=system_prompts)
+    client = ModelScope(system_prompts=system_prompts)
     res = client.generate_content([p2(problem)])
     client.wait()
     return res

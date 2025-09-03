@@ -1,10 +1,11 @@
 {
-  "type": "p2_p3",
-  "topic": "和亲友享受的晚餐",
-  "p2": "Describe a great dinner you and your friend or family members enjoyed. You should say: What you had; Who you had the dinner with; What you talked about during the dinner; And explain why you enjoyed it.",
-  "p3": [
-    "Is it common for students to dine with each other on school days in your country?",
-    "Do people prefer to eat out at restaurants or eat at home during the Spring Festival?",
-    "What food do you eat on special occasions, like during the Spring Festival or the Mid-autumnFestival?"
-  ]
+    "type": "p2_p3",
+    "topic": "和亲友享受的晚餐",
+    "p2": "Describe a great dinner you and your friend or family members enjoyed. You should say: What you had; Who you had the dinner with; What you talked about during the dinner; And explain why you enjoyed it.",
+    "p3": [
+        "Is it common for students to dine with each other on school days in your country?",
+        "Do people prefer to eat out at restaurants or eat at home during the Spring Festival?",
+        "What food do you eat on special occasions, like during the Spring Festival or the Mid-autumnFestival?"
+    ],
+    "label": "经历"
 }
