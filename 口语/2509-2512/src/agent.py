@@ -3,7 +3,8 @@ import time
 import traceback
 from functools import wraps
 
-from src.llm.gemini import Gemini as Client
+from src.llm.gemini import Gemini
+from src.llm.modelscope import ModelScope
 from src.utils import filecontent, p1, write_file, p2, p2u, get_topics
 
 
@@ -38,7 +39,7 @@ def p1_generate(problem):
         filecontent("data/prompt/雅思口语答案示范.md"),
         filecontent("data/prompt/p1.md"),
     ]
-    client = Client(system_prompts=system_prompts)
+    client = Gemini(system_prompts=system_prompts)
     res = client.generate_content([p1(problem)])
     client.wait()
     return res
@@ -50,7 +51,7 @@ def p2_classify(problem):
         filecontent("data/prompt/雅思口语答案示范.md"),
         filecontent("data/prompt/p2分类.md"),
     ]
-    client = Client(system_prompts=system_prompts)
+    client = Gemini(system_prompts=system_prompts)
     res = client.generate_content([p2(problem)]).replace(" ", "").replace("\n", "")
     if res not in ["人物", "经历", "事物", "地点"]:
         raise ValueError(f"Invalid answer for {problem}: {res}")
@@ -64,7 +65,7 @@ def p2u_classify(problem):
         filecontent("data/prompt/雅思口语答案示范.md"),
         filecontent("data/prompt/p2分类.md"),
     ]
-    client = Client(system_prompts=system_prompts)
+    client = ModelScope(system_prompts=system_prompts)
     res = client.generate_content([p2u(problem)]).replace(" ", "").replace("\n", "")
     if res not in ["人物", "经历", "事物", "地点"]:
         raise ValueError(f"Invalid answer for {problem}: {res}")
@@ -79,7 +80,7 @@ def p2_prototype(p2_path, prompt_path):
         filecontent("./data/prompt/个人信息.md"),
         filecontent("data/prompt/p2原型生成.md"),
     ]
-    client = Client(system_prompts=system_prompts)
+    client = Gemini(system_prompts=system_prompts)
 
     topics = get_topics(p2_path)
     prompt = "下面是part2, part3的话题"
@@ -100,7 +101,7 @@ def p2_generate(problem):
         filecontent("data/prompt/p2原型.md"),
         filecontent("data/prompt/p2.md"),
     ]
-    client = Client(system_prompts=system_prompts)
+    client = Gemini(system_prompts=system_prompts)
     res = client.generate_content([p2(problem)])
     client.wait()
     return res
@@ -114,7 +115,7 @@ def p2u_generate(problem):
         filecontent("data/prompt/p2原型.md"),
         filecontent("data/prompt/p2u.md"),
     ]
-    client = Client(system_prompts=system_prompts)
+    client = Gemini(system_prompts=system_prompts)
     res = client.generate_content([p2u(problem)])
     client.wait()
     return res
