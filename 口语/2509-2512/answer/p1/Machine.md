@@ -2,129 +2,64 @@
 
 ## 题目
 
-1.  What is your favourite machine in your home?
-2.  Do you think washing machines and sweeping machines are important?
-3.  Do you read the instructions before using a machine?
-4.  Do you think it is important to read the instructions?
+1. What is your favourite machine in your home?
+2. Do you think washing machines and sweeping machines are important?
+3. Do you read the instructions before using a machine?
+4. Do you think it is important to read the instructions?
 
 ## 回答
 
 > What is your favourite machine in your home?
 > 你家里最喜欢的机器是什么？
 
-A: My favourite `machine` is my **computer**. I **use it** to **do** my homework and also to **play** fun games. It **helps me** learn new things and relax.
-(我最喜欢的机器是我的电脑。我用它做作业，也玩有趣的游戏。它帮助我学习新东西和放松。)
-
----
-
-### 分析
-
-#### 思路与结构
-
-1.  **直接回答**: 开门见山地指出最喜欢的机器。
-2.  **解释原因**: 简单说明这台机器的用途和它带来的好处。
-
-#### 话题词汇/短语
-
-1.  `machine`: 机器
-2.  `computer`: 电脑
-
-#### 实用词汇/短语/句式
-
-1.  **favourite**: 最喜欢的
-2.  **use it to do**: 用它来做
-3.  **play fun games**: 玩有趣的游戏
-4.  **helps me**: 帮助我
-
----
+A: **My favourite machine** is definitely our `washing machine`. **It makes my life so much easier** because I don't have to wash clothes by hand anymore. **I use it almost every day** for my laundry, **and it saves me a lot of time**. 
+我最喜欢的机器绝对是我们的洗衣机。它让我的生活轻松多了，因为我不再需要手洗衣服了。我几乎每天都用它洗衣服，它节省了我很多时间。
 
 > Do you think washing machines and sweeping machines are important?
-> 你觉得洗衣机和扫地机重要吗？
+> 你认为洗衣机和扫地机重要吗？
 
-A: Yes, I **think** `washing machines` and `sweeping machines` are **very important**. They **save** us a lot of **time** and make our **lives** easier. We **can** have clean clothes and a clean floor without working hard.
-(是的，我觉得洗衣机和扫地机非常重要。它们为我们节省了很多时间，让我们的生活更轻松。我们不用费力就能有干净的衣服和地板。)
-
----
-
-### 分析
-
-#### 思路与结构
-
-1.  **明确观点**: 直接表示同意，认为它们很重要。
-2.  **提供理由**: 解释这些机器如何帮助我们，具体说明它们带来的便利。
-
-#### 话题词汇/短语
-
-1.  `washing machines`: 洗衣机
-2.  `sweeping machines`: 扫地机
-
-#### 实用词汇/短语/句式
-
-1.  **think**: 认为
-2.  **very important**: 非常重要
-3.  **save time**: 节省时间
-4.  **make our lives easier**: 让我们的生活更轻松
-5.  **without working hard**: 不用努力工作
-
----
+A: **Yes, absolutely!** These machines **are very important** in modern life. **They help us** complete household chores quickly **so we can have** more free time. **Without them**, life would be much more difficult.
+是的，绝对重要！这些机器在现代生活中非常重要。它们帮助我们快速完成家务，这样我们能有更多空闲时间。没有它们，生活会困难得多。
 
 > Do you read the instructions before using a machine?
-> 你在使用机器前会阅读说明书吗？
+> 在使用机器前你会阅读说明书吗？
 
-A: Yes, I **usually read** the `instructions` before I **use** a **new** `machine`. It **helps me** to **know** how to **use it** in the right **way**. This **can** make sure it **works well**.
-(是的，我通常在新机器使用前会阅读说明书。它帮助我知道如何正确使用它。这可以确保它运作良好。)
-
----
-
-### 分析
-
-#### 思路与结构
-
-1.  **直接回答**: 肯定地表明自己会阅读说明书。
-2.  **解释原因**: 说明阅读说明书的好处，即知道如何正确使用。
-
-#### 话题词汇/短语
-
-1.  `instructions`: 说明书
-2.  `machine`: 机器
-
-#### 实用词汇/短语/句式
-
-1.  **usually read**: 通常阅读
-2.  **before I use**: 在我使用之前
-3.  **helps me to know**: 帮助我知道
-4.  **in the right way**: 以正确的方式
-5.  **works well**: 运作良好
-
----
+A: **To be honest, I usually don't**. **I prefer to** figure out how things work by myself. **However, if** it's a complicated machine, **I might** check the instructions quickly.
+说实话，我通常不会。我更喜欢自己摸索东西怎么用。不过，如果是复杂的机器，我可能会快速看一下说明书。
 
 > Do you think it is important to read the instructions?
 > 你认为阅读说明书重要吗？
 
-A: Yes, I **definitely think** it's **important** to **read** the `instructions`. If **we don't**, we **might not** `use the machine` right or even `break` it. Also, it **can** keep us **safe** from danger.
-(是的，我绝对认为阅读说明书很重要。如果我们不读，我们可能无法正确使用机器，甚至可能弄坏它。此外，它还可以保护我们免受危险。)
+A: **Yes, I think it's quite important**, **especially for** expensive or dangerous machines. **Reading instructions can help** avoid accidents **and make sure** we use the machine correctly. **It's better to be safe** than sorry.
+是的，我认为这很重要，特别是对于昂贵或危险的机器。阅读说明书可以帮助避免事故，并确保我们正确使用机器。安全总比后悔好。
 
----
+## 分析
 
-### 分析
+### 思路与结构
 
-#### 思路与结构
+1. 回答问题后立即给出理由和支持细节
+2. 使用个人经历和实际例子来支持观点
+3. 保持回答简洁但完整
+4. 结尾总结观点
 
-1.  **明确观点**: 坚定地认为阅读说明书很重要。
-2.  **说明不读的后果**: 解释不阅读说明书可能导致的问题（使用不当、损坏）。
-3.  **补充好处**: 强调阅读说明书还能保证安全。
+### 话题词汇/短语
 
-#### 话题词汇/短语
+1. `washing machine` - 洗衣机
+2. `sweeping machine` - 扫地机
+3. `household chores` - 家务
+4. `instructions` - 说明书
+5. `complicated machine` - 复杂机器
 
-1.  `instructions`: 说明书
-2.  `use the machine`: 使用机器
-3.  `break`: 弄坏
+### 实用词汇/短语/句式
 
-#### 实用词汇/短语/句式
+1. **My favourite... is...** - 表达偏好
+2. **It makes my life easier** - 说明好处
+3. **Yes, absolutely!** - 强烈同意
+4. **They help us... so we can...** - 说明因果关系
+5. **To be honest...** - 诚实表达
+6. **I prefer to...** - 表达偏好
+7. **However, if... I might...** - 表达条件
+8. **Yes, I think it's quite important** - 表达重要性
+9. **especially for...** - 特别强调
+10. **It's better to be safe than sorry** - 常用谚语
 
-1.  **definitely think**: 绝对认为
-2.  **important to read**: 阅读很重要
-3.  **if we don't**: 如果我们不（这样做）
-4.  **might not**: 可能不会
-5.  **keep us safe**: 保护我们安全
-6.  **from danger**: 免受危险

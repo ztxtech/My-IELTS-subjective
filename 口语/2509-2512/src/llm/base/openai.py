@@ -6,17 +6,22 @@ from openai import OpenAI
 # 初始化colorama
 init(autoreset=True)
 
+
 class OpenAIBase:
     # 定义类变量作为默认值
     name = 'name'
     base_url = 'base_url'
     api_env = "ENV_API_KEY"
+    temperature = 0.7
+    top_p = 0.9
 
     def __init__(self, model='model', api_key=None, system_prompts=None, silent=True):
         # 使用类变量作为默认值
         self.name = self.__class__.name
         self.base_url = self.__class__.base_url
         self.api_env = self.__class__.api_env
+        self.temperature = self.__class__.temperature
+        self.top_p = self.__class__.top_p
 
         if not api_key:
             self.api_key = os.environ.get(self.api_env)
@@ -51,13 +56,15 @@ class OpenAIBase:
     def generate_content(self, parts):
         if not self.client:
             self.init_cilent()
-            
+
         user_message = {"role": "user", "content": "\n".join(parts)}
         self.history.append(user_message)
 
         response = self.client.chat.completions.create(
             model=self.model,
-            messages=self.history
+            messages=self.history,
+            temperature=self.temperature,
+            top_p=self.top_p
         )
 
         assistant_message = response.choices[0].message

@@ -1,4 +1,4 @@
-# Public transportation
+# Public Transportation
 
 ## 题目
 
@@ -10,168 +10,59 @@
 
 ## 回答
 
-> 1. What kind of public transportation do you usually take?
-> 1. 你通常乘坐哪种公共交通工具？
+> What kind of public transportation do you usually take?
+> 你通常乘坐哪种公共交通？
 
-A: I **often** take the `bus` or `subway`. They are **very convenient** for moving around my `city`. I like them because they are **fast and easy** to use.
-(我经常坐公交车或地铁。它们在我的城市里出行非常方便。我喜欢它们，因为它们又快又好用。)
+A: I usually take the `subway` because it's **really** fast and convenient. Sometimes I take `buses` too, especially for short trips around the city.
+我通常乘坐地铁，因为它真的很快很方便。有时我也会坐公交车，尤其是在城市里短途出行时。
 
----
+> When do you usually take public transportation, in your everyday life or when you are travelling?
+> 你通常在什么时候乘坐公共交通，是日常生活中还是旅行时？
 
-### 分析
+A: **Actually**, I take it **almost every day** for my daily life, like going to university or meeting friends. **But** when I'm travelling, I also use it to explore new places.
+实际上，我几乎每天都用它来满足日常生活需求，比如去大学或见朋友。但旅行时，我也会用它来探索新地方。
 
-#### 思路与结构
+> Do most people prefer public transportation in your country?
+> 在你们国家，大多数人更喜欢公共交通吗？
 
-1.  直接说出常用的交通工具。
-2.  解释为什么喜欢用它们，点明它们的好处。
+A: **Well**, in big cities like Chengdu, **many people** prefer `public transport` because it's cheaper and avoids traffic jams. **However**, in smaller towns, **some people** still like using their own cars.
+嗯，在像成都这样的大城市，许多人更喜欢公共交通，因为它更便宜且能避免交通堵塞。然而，在小城镇，有些人仍然喜欢使用自己的汽车。
 
-#### 话题词汇/短语
+> Did you take public transportation when you were a kid?
+> 你小时候乘坐过公共交通吗？
 
-1.  `bus`：公交车
-2.  `subway`：地铁
-3.  `city`：城市
+A: **Yes, definitely!** I remember taking the `bus` with my parents to go shopping or visit relatives. **It was** a fun experience **for me** as a child.
+是的，当然！我记得小时候和父母一起坐公交车去购物或拜访亲戚。这对小时候的我来说是一次有趣的经历。
 
-#### 实用词汇/短语/句式
+> Will there be more people taking public transportation in the future?
+> 未来会有更多人乘坐公共交通吗？
 
-1.  **often**：经常，常常
-2.  **very convenient**：非常方便
-3.  **fast and easy**：又快又简单
+A: **I think so**, because `public transportation` is becoming **more and more** comfortable and environmentally friendly. **Also**, with better `subway systems` and `buses`, **it will be** a popular choice.
+我想是的，因为公共交通正变得越来越舒适和环保。而且，随着地铁系统和公交车的改善，它将成为一个受欢迎的选择。
 
----
+## 分析
 
-> 2. When do you usually take public transportation, in your everyday life or when you are travelling?
-> 3. 你通常在什么时候乘坐公共交通工具，是日常生活中还是旅行时？
+### 思路与结构
 
-A: I **use** `public transportation` in **both** my `everyday life` and when I `travel`. For example, I **often** take the `bus` to `school`. When I `travel`, I also **like to use** `subways` to see new `cities`.
-(我日常生活中和旅行时都使用公共交通。比如，我经常坐公交车去学校。当我旅行时，我也喜欢坐地铁去看看新的城市。)
+1. 每个回答都先直接回答问题，然后提供简单理由或例子
+2. 使用对比结构（but, however）展示不同情况
+3. 通过个人经历和观察来支持观点
+4. 使用时间对比（when I was a kid → now → future）保持逻辑连贯
 
----
+### 话题词汇/短语
 
-### 分析
+1. `subway` - 地铁
+2. `buses` - 公交车
+3. `public transport` - 公共交通
+4. `traffic jams` - 交通堵塞
+5. `subway systems` - 地铁系统
 
-#### 思路与结构
+### 实用词汇/短语/句式
 
-1.  直接回答“两者都用”。
-2.  分别举例说明在日常生活中和旅行时如何使用。
-
-#### 话题词汇/短语
-
-1.  `public transportation`：公共交通
-2.  `everyday life`：日常生活
-3.  `travel`：旅行
-4.  `school`：学校
-5.  `cities`：城市
-
-#### 实用词汇/短语/句式
-
-1.  **use**：使用
-2.  **both... and...**：既...又...（两者都）
-3.  **often**：经常
-4.  **like to use**：喜欢使用
-
----
-
-> 3. Do most people prefer public transportation in your country?
-> 4. 在你的国家，大多数人更喜欢公共交通吗？
-
-A: It `depends` on where they `live`. In `big cities`, **many people prefer** `public transportation` because it's `fast` and avoids `traffic`. But in `smaller towns`, **more people might use** their `cars` because `buses` are `less frequent`.
-(这取决于他们住在哪里。在大城市，很多人喜欢公共交通，因为它快并且能避开堵车。但在小城镇，更多人可能会用他们的汽车，因为公交车班次较少。)
-
----
-
-### 分析
-
-#### 思路与结构
-
-1.  指出情况因地点而异（"it depends"）。
-2.  对比大城市和小城镇的不同情况，给出原因。
-
-#### 话题词汇/短语
-
-1.  `depends`：取决于
-2.  `live`：居住
-3.  `big cities`：大城市
-4.  `public transportation`：公共交通
-5.  `fast`：快
-6.  `traffic`：交通堵塞
-7.  `smaller towns`：小城镇
-8.  `cars`：汽车
-9.  `buses`：公交车
-10. `less frequent`：班次较少
-
-#### 实用词汇/短语/句式
-
-1.  **many people prefer**：很多人更喜欢
-2.  **more people might use**：更多人可能会使用
-
----
-
-> 4. Did you take public transportation when you were a kid?
-> 5. 你小时候坐过公共交通工具吗？
-
-A: **Yes**, I `sometimes` took `public transportation` when I was a `kid`. I **mostly** remember taking the `school bus` to go to `school`. My `parents` also took me on `buses` to `visit places` in our `town`.
-(是的，我小时候有时坐公共交通。我主要记得坐校车去学校。我爸爸妈妈也带我坐公交车去我们镇上的地方玩。)
-
----
-
-### 分析
-
-#### 思路与结构
-
-1.  直接回答“是”，并确认小时候有乘坐过。
-2.  举例说明小时候乘坐公共交通的具体情况。
-
-#### 话题词汇/短语
-
-1.  `sometimes`：有时
-2.  `public transportation`：公共交通
-3.  `kid`：小孩
-4.  `school bus`：校车
-5.  `school`：学校
-6.  `parents`：父母
-7.  `buses`：公交车
-8.  `visit places`：参观地方
-9.  `town`：小镇
-
-#### 实用词汇/短语/句式
-
-1.  **Yes**：是的
-2.  **mostly remember**：主要记得
-3.  **to go to**：去往
-4.  **took me on... to...**：带我乘坐...去...
-
----
-
-> 5. Will there be more people taking public transportation in the future?
-> 6. 未来会有更多人乘坐公共交通工具吗？
-
-A: **Yes**, I `think` `more people` **will use** `public transportation` in the `future`. As `cities grow`, it **will be** `more important` to `move around easily`. Also, it's `better for the Earth` to have `fewer cars`.
-(是的，我想未来会有更多人使用公共交通。随着城市发展，方便出行会更重要。而且，少些汽车对地球也更好。)
-
----
-
-### 分析
-
-#### 思路与结构
-
-1.  直接给出预测，并说明理由。
-2.  列举支持这一观点的两个主要原因（城市发展和环保）。
-
-#### 话题词汇/短语
-
-1.  `think`：认为
-2.  `more people`：更多人
-3.  `will use`：将会使用
-4.  `public transportation`：公共交通
-5.  `future`：未来
-6.  `cities grow`：城市发展
-7.  `more important`：更重要
-8.  `move around easily`：轻松出行
-9.  `better for the Earth`：对地球更好
-10. `fewer cars`：更少的汽车
-
-#### 实用词汇/短语/句式
-
-1.  **will be**：将会是
-2.  **As...**：随着...
-3.  **Also**：此外，而且
+1. **really** fast and convenient - 真的很快很方便（加强语气）
+2. **Actually**... - 实际上...（开始回答的实用短语）
+3. **almost every day** - 几乎每天（频率表达）
+4. **many people**... **some people**... - 许多人...有些人...（表达不同群体）
+5. **Yes, definitely!** - 是的，当然！（肯定回答）
+6. **more and more** comfortable - 越来越舒适（比较级重复表示程度增加）
+7. **I think so** - 我想是的（表达观点

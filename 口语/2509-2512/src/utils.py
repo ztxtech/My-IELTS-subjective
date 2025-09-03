@@ -324,3 +324,20 @@ def md2pdf(md_path, keep_html=False):
         if not keep_html and html_file.exists():
             html_file.unlink()
             print(f"🗑️ 已删除中间文件 '{html_file.name}'")
+
+
+def remove_markdown_code_block(text):
+    """
+    如果字符串第一行是```开头，最后一行也是```，则去除这两行
+    """
+    lines = text.split('\n')
+
+    # 检查第一行是否以```开头，最后一行是否以```结尾
+    if lines and lines[0].strip().startswith('```') and lines[-1].strip().endswith('```'):
+        # 如果只有两行或更少，且都包含```
+        if len(lines) <= 2:
+            return ''
+        # 去除首尾两行
+        return '\n'.join(lines[1:-1])
+
+    return text
